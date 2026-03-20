@@ -177,12 +177,18 @@ async function fetchXContent(xAccounts, bearerToken, state, errors) {
         { headers: { 'Authorization': `Bearer ${bearerToken}` } }
       );
 
+      console.error(`User lookup: HTTP ${res.status}`);
+
       if (!res.ok) {
         errors.push(`X API: User lookup failed: HTTP ${res.status}`);
+        console.error(`ERROR: User lookup failed with status ${res.status}`);
+        const errorText = await res.text();
+        console.error(`Response: ${errorText}`);
         continue;
       }
 
       const data = await res.json();
+      console.error(`Found ${data.data?.length || 0} users from batch of ${batch.length}`);
       for (const user of (data.data || [])) {
         userMap[user.username.toLowerCase()] = {
           id: user.id,
@@ -298,6 +304,12 @@ async function main() {
   let xContent = [];
   if (!podcastsOnly) {
     console.error('Fetching X/Twitter content...');
+    if (!xBearerToken) {
+      console.error('ERROR: X_BEARER_TOKEN is not set');
+    } else {
+      console.error('X_BEARER_TOKEN is set, proceeding...');
+      console.error(`Found ${sources.x_accounts.length} builders to fetch`);
+    }
     xContent = await fetchXContent(sources.x_accounts, xBearerToken, state, errors);
     console.error(`  Found ${xContent.length} builders with new tweets`);
 
