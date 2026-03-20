@@ -1,255 +1,179 @@
-# Builder Insights — 关注信号，忽略噪音
+[English](README.md) | 中文
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![OpenClaw Skill](https://img.shields.io/badge/OpenClaw-Skill-blue)](https://openclaw.ai)
+# Builder Insights
 
-🤖 **追踪 AI 领域真正 builder 的动态** — 自动汇总 33+ AI 研究者、创始人、工程师在 X/Twitter 和 YouTube 上的高价值内容。
+一个 AI 驱动的信息聚合工具，追踪 AI 领域最顶尖的建造者——研究员、创始人、产品经理和工程师——并将他们的最新动态整理成易于消化的摘要推送给你。
 
-**Slogan:** Follow the signal, ignore the noise.  
-**口号：** 关注信号，忽略噪音。
+**理念：** Follow the signal, ignore the noise.（关注信号，忽略噪音。）
 
 ---
 
-## ✨ 特性
+## 📬 推送内容
 
-### v2 改进
+每日或每周推送到你常用的通讯工具（Telegram、Discord、飞书等），包含：
 
-| 功能 | v1 | v2 |
-|------|-----|-----|
-| **Builder 数量** | 25 (仅英文) | 33 (全球 + 中文) |
-| **内容获取** | 网络搜索 | GitHub Feed + Rettiwt |
-| **价值评分** | ❌ | ✅ (0-10 分) |
-| **自动分类** | ❌ | ✅ (产品/技术/行业/融资) |
-| **语言** | 英文 | 中英文双语 |
-
-### 内容包括
-
-- **📱 X/Twitter 精选** — 33+ AI builder 的最新推文
-  - 全球：Andrej Karpathy, Sam Altman, Replit CEO, Box CEO 等
-  - 中文：李开复，吴恩达，王小川，杨植麟 (Kimi) 等
-
-- **🎙️ Podcast 精选** — YouTube 技术播客完整转录稿
-  - Latent Space, Training Data, No Priors, Data Driven NYC 等
-
-- **🏆 价值评分** — 每条推文 0-10 分
-  - 信息密度 (40%)
-  - 原创性 (35%)
-  - 互动质量 (25%)
-
-- **📊 自动分类**
-  - 🏗️ 产品发布
-  - 🔬 技术突破
-  - 📊 行业洞察
-  - 💰 投融资
+- 🎙️ **顶级 AI 播客** 新节目的精华摘要
+- 📱 **25 位精选 AI 建造者** 在 X/Twitter 上的关键观点和洞察
+- 🔗 **所有原始内容的链接**
+- 🌐 **支持英文、中文或双语版本**
+- ⭐ **价值评分** — 每条内容 0-10 分，优先推送高价值内容
+- 📊 **自动分类** — 产品发布、技术突破、行业洞察、投融资
 
 ---
 
 ## 🚀 快速开始
 
-### 前置条件
+### 方式 1：通过 AI Agent 设置（推荐）
 
-- [OpenClaw](https://openclaw.ai) 已安装
-- Node.js 18+
-- (可选) Supadata API key 用于 YouTube 转录稿
+在你的 AI agent 中（OpenClaw 或 Claude Code）：
 
-### 安装
-
-```bash
-# 通过 skillhub（推荐国内用户）
-skillhub install builder-insights
-
-# 或通过 clawhub
-clawhub install builder-insights
-
-# 或手动克隆
-git clone https://github.com/ai-romeo/builder-insights.git
-cd builder-insights
-npm install
+```
+输入 "set up builder-insights" 或执行 /builder-insights
 ```
 
-### 配置
+Agent 会以对话方式引导你完成设置——不需要手动编辑任何配置文件。
 
-创建 `~/.builder-insights/config.json`：
+**Agent 会询问你：**
+- 推送频率（每日或每周）和时间
+- 语言偏好（英文/中文/双语）
+- 推送方式（Telegram、邮件或直接在聊天中显示）
 
-```json
-{
-  "language": "bilingual",
-  "timezone": "Asia/Shanghai",
-  "frequency": "daily",
-  "deliveryTime": "22:34",
-  "contentPreferences": {
-    "includePodcasts": false,
-    "includeX": true,
-    "xBuilderCount": 20,
-    "minTweetScore": 5,
-    "regionFilter": "all"
-  }
-}
-```
+**不需要任何 API key** — 所有内容由中心化服务统一抓取。
 
-### 使用
+设置完成后，你的第一期摘要会立即推送。
+
+### 方式 2：手动安装
 
 ```bash
+# 克隆仓库
+git clone https://github.com/ai-romeo/builder-insights.git ~/skills/builder-insights
+cd ~/skills/builder-insights/scripts && npm install
+
+# 配置
+cp config.example.json ~/.builder-insights/config.json
+# 编辑 ~/.builder-insights/config.json 设置你的偏好
+
 # 手动触发
-cd builder-insights/scripts
 node prepare-digest.js
-
-# 或设置 OpenClaw 定时任务（自动每日推送）
-openclaw cron add --name "Builder Insights" \
-  --cron "34 22 * * *" \
-  --tz "Asia/Shanghai" \
-  --message "获取最新 AI builders 摘要"
 ```
 
 ---
 
-## 📁 项目结构
+## ⚙️ 自定义设置
 
+通过对话即可修改推送偏好。直接告诉你的 agent：
+
+- "改成每周一早上推送"
+- "语言换成中文"
+- "把摘要写得更简短一些"
+- "只显示 8 分以上的内容"
+- "显示我当前的设置"
+
+### 高级自定义
+
+**信息源列表** 由中心化统一管理和更新——你无需做任何操作即可获得最新的信息源。
+
+**Prompt 定制**（Skill 使用纯文本 prompt 文件来控制内容的摘要方式）：
+
+通过对话（推荐）：
+- 直接告诉你的 agent — "摘要写得更简练一些"、"多关注可操作的洞察"、"用更轻松的语气"
+- Agent 会自动帮你更新 prompt
+
+直接编辑（高级用户）：
+编辑 `prompts/` 文件夹中的文件：
+- `summarize-podcast.md` — 播客节目的摘要方式
+- `summarize-tweets.md` — X/Twitter 帖子的摘要方式
+- `digest-intro.md` — 整体摘要的格式和语气
+- `translate.md` — 英文内容翻译为中文的方式
+
+这些都是纯文本指令，不是代码。修改后下次推送即生效。
+
+---
+
+## 📊 当前信息源
+
+### 播客（5 个）
+
+- [Latent Space](https://www.youtube.com/@LatentSpacePod)
+- [Training Data](https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8)
+- [No Priors](https://www.youtube.com/@NoPriorsPodcast)
+- [Unsupervised Learning](https://www.youtube.com/@RedpointAI)
+- [Data Driven NYC](https://www.youtube.com/@DataDrivenNYC)
+
+### X/Twitter 建造者（25 位）
+
+**全球（19 位）：**
+[Garry Tan](https://x.com/garrytan), [Steven Bartlett](https://x.com/StevenBartlett), [Ish Verduzco](https://x.com/ishverduzco), [Oogie](https://x.com/oggii_0), [Paul Graham](https://x.com/paulg), [Josh Woodward](https://x.com/joshwoodward), [TechieSA](https://x.com/TechieBySA), [Amira Zairi](https://x.com/azed_ai), [Adam Grant](https://x.com/AdamMGrant), [Chris Williamson](https://x.com/ChrisWillx), [Alex Hormozi](https://x.com/AlexHormozi), [Andrew Huberman](https://x.com/hubermanlab), [Lulu Cheng Meservey](https://x.com/lulumeservey), [DAN KOE](https://x.com/thedankoe), [Naval](https://x.com/naval), [Andrej Karpathy](https://x.com/karpathy), [Ray Dalio](https://x.com/RayDalio), [John Rush](https://x.com/johnrushx)
+
+**中文（6 位）：**
+[向阳乔木](https://x.com/vista8), [李举刚](https://x.com/justinleei), [凡人小北](https://x.com/frxiaobei), [Orange AI](https://x.com/oran_ge), [李继刚](https://x.com/lijigang), [宝玉](https://x.com/dotey)
+
+---
+
+## 📦 安装
+
+### 从 ClawHub 安装（即将上线）
+
+```bash
+clawhub install builder-insights
 ```
-builder-insights/
-├── scripts/
-│   ├── prepare-digest.js    # 主入口（v2 带评分）
-│   ├── fetch-content.js     # 内容抓取（v2 带 Rettiwt）
-│   └── deliver.js           # 推送（Telegram/Email/Stdout）
-├── config/
-│   └── default-sources.json # Builder 列表（33 位）
-├── prompts/
-│   ├── summarize-tweets.md  # 推文摘要提示（v2）
-│   ├── summarize-podcast.md # 播客摘要提示
-│   └── digest-intro.md      # 摘要组装提示（v2）
-├── feed-x.json              # X/Twitter feed（自动生成）
-├── feed-podcasts.json       # Podcast feed（自动生成）
-└── README.md                # 本文件
+
+### 手动安装
+
+```bash
+# OpenClaw
+git clone https://github.com/ai-romeo/builder-insights.git ~/.openclaw/workspace/skills/builder-insights
+cd ~/.openclaw/workspace/skills/builder-insights/scripts && npm install
+
+# Claude Code
+git clone https://github.com/ai-romeo/builder-insights.git ~/.claude/skills/builder-insights
+cd ~/.claude/skills/builder-insights/scripts && npm install
 ```
 
 ---
 
-## 🔧 API 使用
+## 🔧 需求
 
-### X/Twitter 内容
+- 一个 AI agent（OpenClaw、Claude Code 或类似工具）
+- 网络连接（用于获取中心化 feed）
 
-**方式 1：GitHub Feed（推荐）**
-```javascript
-const feedX = await fetchJSON(
-  'https://raw.githubusercontent.com/ai-romeo/builder-insights/main/feed-x.json'
-);
-```
-
-**方式 2：Rettiwt API（无需认证）**
-```javascript
-const res = await fetch(
-  `https://api.rettiwt.tech/api/v1/search?query=from:${handle}&count=10`
-);
-```
-
-### YouTube 内容
-
-**Supadata API（付费，约 $0.01/视频）**
-```javascript
-const res = await fetch(
-  `https://api.supadata.ai/v1/youtube/transcript?url=${videoUrl}`,
-  { headers: { 'x-api-key': apiKey } }
-);
-```
+**仅此而已。不需要任何 API key。** 所有内容（YouTube 字幕 + X/Twitter 帖子）由中心化服务每日抓取更新。
 
 ---
 
-## 📊 Builder 名单
+## 🎯 工作原理
 
-### 全球 Builder（17 位）
+1. **中心化 feed 每日更新**，抓取所有信息源的最新内容（YouTube 字幕通过 Supadata，X/Twitter 通过官方 API 或 Rettiwt）
+2. **你的 agent 获取 feed** — 一次 HTTP 请求，不需要 API key
+3. **你的 agent 根据你的偏好** 将原始内容重新混编为易消化的摘要（带价值评分和分类）
+4. **摘要推送到你的通讯工具**（或直接在聊天中显示）
 
-| 姓名 | Handle | 角色 |
-|------|--------|------|
-| Andrej Karpathy | @karpathy | 前 Tesla AI 总监，OpenAI 创始成员 |
-| Sam Altman | @sama | OpenAI CEO |
-| Amjad Masad | @amasad | Replit CEO |
-| Aaron Levie | @levie | Box CEO |
-| Garry Tan | @garrytan | YC CEO |
-| ... | ... | ... |
-
-### 中文 Builder（8 位）
-
-| 姓名 | Handle | 角色 |
-|------|--------|------|
-| 李开复 | @kaifulee | 创新工场创始人 |
-| 吴恩达 | @AndrewYNg | DeepLearning.AI 创始人 |
-| 王小川 | @xiaochuan_wang | 百川智能创始人 |
-| 杨植麟 | @zhilin_yang | 月之暗面创始人 (Kimi) |
-| ... | ... | ... |
+查看 [examples/sample-digest.md](examples/sample-digest.md) 了解输出示例。
 
 ---
 
-## 🎯 价值评分
+## 🔒 隐私与安全
 
-### 评分算法
-
-```javascript
-score = (
-  信息密度 * 0.4 +    // 内容长度、实质性
-  原创性 * 0.35 +   // 原创 vs 转发
-  互动质量 * 0.25      // 点赞/评论比例
-) * 10
-```
-
-### 分数含义
-
-| 分数 | 含义 | 操作 |
-|------|------|------|
-| 8-10 | 高价值 | 必读 |
-| 6-7 | 中等价值 | 值得浏览 |
-| < 6 | 低价值 | 跳过 |
-
----
-
-## 🤝 贡献
-
-### 添加新 Builder
-
-编辑 `config/default-sources.json`：
-
-```json
-{
-  "x_accounts": [
-    { "name": "你的 Builder", "handle": "handle", "region": "china", "focus": ["AI"] }
-  ]
-}
-```
-
-### 改进 Prompt
-
-编辑 `prompts/*.md` 并提交 PR。
-
-### 报告问题
-
-在 GitHub 提 Issue，包含：
-- 什么问题
-- 预期行为
-- 你的配置（先删除 API key）
+- **不发送任何 API key** — 所有内容由中心化服务获取
+- **如果你使用 Telegram/邮件推送**，相关 key 仅存储在本地 `~/.builder-insights/.env`
+- **Skill 只读取公开内容**（公开的 YouTube 视频和 X 帖子）
+- **你的配置、偏好和阅读记录** 都保留在你自己的设备上
+- **价值评分和去重状态** 存储在本地，不会上传
 
 ---
 
 ## 📝 许可证
 
-MIT License — 见 [LICENSE](LICENSE) 文件。
+MIT
 
 ---
 
 ## 🙏 致谢
 
-- 原项目：[zarazhangrui/follow-builders](https://github.com/zarazhangrui/follow-builders)
-- Rettiwt: [RettiwtTeam/Rettiwt](https://github.com/RettiwtTeam/Rettiwt)
-- Supadata: [supadata.ai](https://supadata.ai)
+基于原项目 [follow-builders](https://github.com/zarazhangrui/follow-builders) 改进：
+- 添加价值评分系统（0-10 分）
+- 自动分类（产品/技术/行业/融资）
+- 中文 builder 支持
+- 中英文双语输出
 
----
-
-## 📬 联系
-
-- **GitHub Issues:** Bug 和功能请求
-- **Twitter:** [@ai-romeo](https://twitter.com/ai-romeo)
-- **Email:** ai-romeo@users.noreply.github.com
-
----
-
-**由 AI builder 打造，为 AI builder 服务。❤️**
-
-**Follow the signal, ignore the noise. 📡**
+**Follow the signal, ignore the noise.** 📡

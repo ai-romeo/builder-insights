@@ -1,255 +1,179 @@
-# Builder Insights — Follow the Signal, Ignore the Noise
+English | [中文](README.zh-CN.md)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![OpenClaw Skill](https://img.shields.io/badge/OpenClaw-Skill-blue)](https://openclaw.ai)
+# Builder Insights
 
-🤖 **Track what AI builders are actually building** — automated digest of high-signal insights from 33+ AI researchers, founders, and engineers on X/Twitter and YouTube.
+An AI-powered digest that tracks the top AI builders — researchers, founders, PMs, and engineers — and delivers their latest insights in easy-to-digest summaries.
 
-**Slogan:** Follow the signal, ignore the noise.  
-**中文名：** 关注信号，忽略噪音。
+**Slogan:** Follow the signal, ignore the noise.
 
 ---
 
-## ✨ Features
+## 📬 What You Get
 
-### v2 Improvements
+Daily or weekly digest to your preferred channel (Telegram, Discord, etc.):
 
-| Feature | v1 | v2 |
-|---------|-----|-----|
-| **Builders** | 25 (English only) | 33 (Global + Chinese) |
-| **Content Fetch** | Web search | GitHub Feed + Rettiwt |
-| **Value Scoring** | ❌ | ✅ (0-10 score) |
-| **Auto Categories** | ❌ | ✅ (Product/Tech/Industry/Funding) |
-| **Language** | English | Bilingual (EN+ZH) |
-
-### What's Included
-
-- **📱 X/Twitter精选** — 33+ AI builders' latest tweets
-  - Global: Andrej Karpathy, Sam Altman, Amjad Masad (Replit), Aaron Levie (Box), etc.
-  - Chinese: 李开复，吴恩达，王小川，杨植麟 (Kimi), etc.
-
-- **🎙️ Podcast 精选** — YouTube tech podcasts with full transcripts
-  - Latent Space, Training Data, No Priors, Data Driven NYC, etc.
-
-- **🏆 Value Scoring** — Each tweet scored 0-10
-  - Information density (40%)
-  - Originality (35%)
-  - Engagement quality (25%)
-
-- **📊 Auto Categories**
-  - 🏗️ Product Launch
-  - 🔬 Technical Breakthrough
-  - 📊 Industry Insight
-  - 💰 Funding & M&A
+- 🎙️ **Top AI Podcasts** — Key insights from new episodes
+- 📱 **25 Curated AI Builders** — Critical thoughts from X/Twitter
+- 🔗 **Links to all original content**
+- 🌐 **English, Chinese, or Bilingual**
+- ⭐ **Value Scoring** — Each tweet scored 0-10, high-signal first
+- 📊 **Auto Categories** — Product, Tech, Industry, Funding
 
 ---
 
 ## 🚀 Quick Start
 
-### Prerequisites
+### Option 1: Via AI Agent (Recommended)
 
-- [OpenClaw](https://openclaw.ai) installed
-- Node.js 18+
-- (Optional) Supadata API key for YouTube transcripts
+In your AI agent (OpenClaw or Claude Code):
 
-### Installation
-
-```bash
-# Via skillhub (recommended for CN users)
-skillhub install builder-insights
-
-# Or via clawhub
-clawhub install builder-insights
-
-# Or manual clone
-git clone https://github.com/ai-romeo/builder-insights.git
-cd builder-insights
-npm install
+```
+Type "set up builder-insights" or run /builder-insights
 ```
 
-### Configuration
+Agent will guide you through setup — no manual config editing needed.
 
-Create `~/.builder-insights/config.json`:
+**Agent will ask:**
+- Frequency (daily/weekly) and time
+- Language preference (EN/CN/Bilingual)
+- Delivery method (Telegram/Email/In-chat)
 
-```json
-{
-  "language": "bilingual",
-  "timezone": "Asia/Shanghai",
-  "frequency": "daily",
-  "deliveryTime": "22:34",
-  "contentPreferences": {
-    "includePodcasts": false,
-    "includeX": true,
-    "xBuilderCount": 20,
-    "minTweetScore": 5,
-    "regionFilter": "all"
-  }
-}
-```
+**No API keys required** — all content fetched by centralized service.
 
-### Usage
+Your first digest arrives immediately after setup.
+
+### Option 2: Manual Install
 
 ```bash
+# Clone repo
+git clone https://github.com/ai-romeo/builder-insights.git ~/skills/builder-insights
+cd ~/skills/builder-insights/scripts && npm install
+
+# Config
+cp config.example.json ~/.builder-insights/config.json
+# Edit ~/.builder-insights/config.json with your preferences
+
 # Manual trigger
-cd builder-insights/scripts
 node prepare-digest.js
-
-# Or with OpenClaw cron (auto daily delivery)
-openclaw cron add --name "Builder Insights" \
-  --cron "34 22 * * *" \
-  --tz "Asia/Shanghai" \
-  --message "Get latest AI builders digest"
 ```
 
 ---
 
-## 📁 Project Structure
+## ⚙️ Customization
 
+Change preferences via chat. Just tell your agent:
+
+- "Switch to weekly Monday morning"
+- "Change language to Chinese"
+- "Make summaries more concise"
+- "Only show 8+ score content"
+- "Show my current settings"
+
+### Advanced Customization
+
+**Source list** is centrally managed — you automatically get updates.
+
+**Prompt customization** (Skill uses plain text prompt files):
+
+Via chat (recommended):
+- Tell your agent — "make summaries punchier", "focus on actionable insights", "use casual tone"
+- Agent updates prompts for you
+
+Direct edit (advanced):
+Edit files in `prompts/` folder:
+- `summarize-podcast.md` — How to summarize podcast episodes
+- `summarize-tweets.md` — How to summarize X/Twitter posts
+- `digest-intro.md` — Overall digest format and tone
+- `translate.md` — How to translate English to Chinese
+
+These are plain text instructions, not code. Changes take effect next digest.
+
+---
+
+## 📊 Current Sources
+
+### Podcasts (5)
+
+- [Latent Space](https://www.youtube.com/@LatentSpacePod)
+- [Training Data](https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8)
+- [No Priors](https://www.youtube.com/@NoPriorsPodcast)
+- [Unsupervised Learning](https://www.youtube.com/@RedpointAI)
+- [Data Driven NYC](https://www.youtube.com/@DataDrivenNYC)
+
+### X/Twitter Builders (25)
+
+**Global (19):**
+[Garry Tan](https://x.com/garrytan), [Steven Bartlett](https://x.com/StevenBartlett), [Ish Verduzco](https://x.com/ishverduzco), [Oogie](https://x.com/oggii_0), [Paul Graham](https://x.com/paulg), [Josh Woodward](https://x.com/joshwoodward), [TechieSA](https://x.com/TechieBySA), [Amira Zairi](https://x.com/azed_ai), [Adam Grant](https://x.com/AdamMGrant), [Chris Williamson](https://x.com/ChrisWillx), [Alex Hormozi](https://x.com/AlexHormozi), [Andrew Huberman](https://x.com/hubermanlab), [Lulu Cheng Meservey](https://x.com/lulumeservey), [DAN KOE](https://x.com/thedankoe), [Naval](https://x.com/naval), [Andrej Karpathy](https://x.com/karpathy), [Ray Dalio](https://x.com/RayDalio), [John Rush](https://x.com/johnrushx)
+
+**Chinese (6):**
+[向阳乔木](https://x.com/vista8), [李举刚](https://x.com/justinleei), [凡人小北](https://x.com/frxiaobei), [Orange AI](https://x.com/oran_ge), [李继刚](https://x.com/lijigang), [宝玉](https://x.com/dotey)
+
+---
+
+## 📦 Installation
+
+### From ClawHub (Coming Soon)
+
+```bash
+clawhub install builder-insights
 ```
-builder-insights/
-├── scripts/
-│   ├── prepare-digest.js    # Main entry (v2 with scoring)
-│   ├── fetch-content.js     # Content fetcher (v2 with Rettiwt)
-│   └── deliver.js           # Delivery (Telegram/Email/Stdout)
-├── config/
-│   └── default-sources.json # Builder list (33 builders)
-├── prompts/
-│   ├── summarize-tweets.md  # Tweet summary prompt (v2)
-│   ├── summarize-podcast.md # Podcast summary prompt
-│   └── digest-intro.md      # Digest assembly prompt (v2)
-├── feed-x.json              # X/Twitter feed (auto-generated)
-├── feed-podcasts.json       # Podcast feed (auto-generated)
-└── README.md                # This file
+
+### Manual Install
+
+```bash
+# OpenClaw
+git clone https://github.com/ai-romeo/builder-insights.git ~/.openclaw/workspace/skills/builder-insights
+cd ~/.openclaw/workspace/skills/builder-insights/scripts && npm install
+
+# Claude Code
+git clone https://github.com/ai-romeo/builder-insights.git ~/.claude/skills/builder-insights
+cd ~/.claude/skills/builder-insights/scripts && npm install
 ```
 
 ---
 
-## 🔧 API Usage
+## 🔧 Requirements
 
-### X/Twitter Content
+- An AI agent (OpenClaw, Claude Code, or similar)
+- Internet connection (to fetch centralized feed)
 
-**Method 1: GitHub Feed (Recommended)**
-```javascript
-const feedX = await fetchJSON(
-  'https://raw.githubusercontent.com/ai-romeo/builder-insights/main/feed-x.json'
-);
-```
-
-**Method 2: Rettiwt API (No Auth)**
-```javascript
-const res = await fetch(
-  `https://api.rettiwt.tech/api/v1/search?query=from:${handle}&count=10`
-);
-```
-
-### YouTube Content
-
-**Supadata API (Paid, ~$0.01/video)**
-```javascript
-const res = await fetch(
-  `https://api.supadata.ai/v1/youtube/transcript?url=${videoUrl}`,
-  { headers: { 'x-api-key': apiKey } }
-);
-```
+**That's it. No API keys needed.** All content (YouTube transcripts + X/Twitter posts) is fetched daily by centralized service.
 
 ---
 
-## 📊 Builder List
+## 🎯 How It Works
 
-### Global Builders (17)
+1. **Centralized feed updates daily**, fetching latest content from all sources (YouTube via Supadata, X/Twitter via official API or Rettiwt)
+2. **Your agent fetches the feed** — one HTTP request, no API keys
+3. **Your agent remixes raw content** into digestible summaries based on your preferences (with value scoring and categories)
+4. **Digest delivered to your channel** (or shown directly in chat)
 
-| Name | Handle | Role |
-|------|--------|------|
-| Andrej Karpathy | @karpathy | Ex-Tesla AI, OpenAI founding |
-| Sam Altman | @sama | OpenAI CEO |
-| Amjad Masad | @amasad | Replit CEO |
-| Aaron Levie | @levie | Box CEO |
-| Garry Tan | @garrytan | YC CEO |
-| ... | ... | ... |
-
-### Chinese Builders (8)
-
-| Name | Handle | Role |
-|------|--------|------|
-| 李开复 | @kaifulee | 创新工场创始人 |
-| 吴恩达 | @AndrewYNg | DeepLearning.AI |
-| 王小川 | @xiaochuan_wang | 百川智能创始人 |
-| 杨植麟 | @zhilin_yang | 月之暗面创始人 (Kimi) |
-| ... | ... | ... |
+See [examples/sample-digest.md](examples/sample-digest.md) for sample output.
 
 ---
 
-## 🎯 Value Scoring
+## 🔒 Privacy & Security
 
-### Scoring Algorithm
-
-```javascript
-score = (
-  infoDensity * 0.4 +    // Content length, substance
-  originality * 0.35 +   // Original vs retweet
-  engagement * 0.25      // Likes/replies ratio
-) * 10
-```
-
-### Score Interpretation
-
-| Score | Meaning | Action |
-|-------|---------|--------|
-| 8-10 | High value | Must read |
-| 6-7 | Medium value | Worth browsing |
-| < 6 | Low value | Skip |
-
----
-
-## 🤝 Contributing
-
-### Add New Builders
-
-Edit `config/default-sources.json`:
-
-```json
-{
-  "x_accounts": [
-    { "name": "Your Builder", "handle": "handle", "region": "china", "focus": ["AI"] }
-  ]
-}
-```
-
-### Improve Prompts
-
-Edit `prompts/*.md` and submit a PR.
-
-### Report Issues
-
-Open an issue on GitHub with:
-- What's broken
-- Expected behavior
-- Your config (remove API keys first)
+- **No API keys sent** — all content fetched by centralized service
+- **If using Telegram/Email**, keys stored locally in `~/.builder-insights/.env`
+- **Skill only reads public content** (public YouTube videos and X posts)
+- **Your config, preferences, and read history** stay on your device
+- **Value scoring and dedup state** stored locally, never uploaded
 
 ---
 
 ## 📝 License
 
-MIT License — see [LICENSE](LICENSE) file.
+MIT
 
 ---
 
 ## 🙏 Acknowledgments
 
-- Original project: [zarazhangrui/follow-builders](https://github.com/zarazhangrui/follow-builders)
-- Rettiwt: [RettiwtTeam/Rettiwt](https://github.com/RettiwtTeam/Rettiwt)
-- Supadata: [supadata.ai](https://supadata.ai)
-
----
-
-## 📬 Contact
-
-- **GitHub Issues:** For bugs and feature requests
-- **Twitter:** [@ai-romeo](https://twitter.com/ai-romeo)
-- **Email:** ai-romeo@users.noreply.github.com
-
----
-
-**Made with ❤️ by AI builders, for AI builders.**
+Improved from original [follow-builders](https://github.com/zarazhangrui/follow-builders):
+- Value scoring system (0-10)
+- Auto-categorization (Product/Tech/Industry/Funding)
+- Chinese builder support
+- Bilingual output
 
 **Follow the signal, ignore the noise.** 📡
