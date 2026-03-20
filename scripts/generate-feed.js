@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 // ============================================================================
-// Follow Builders — Central Feed Generator
+// Builder Insights — Central Feed Generator
 // ============================================================================
 // Runs on GitHub Actions (every 6h for tweets, every 24h for podcasts) to
 // fetch content and publish feed-x.json and feed-podcasts.json.

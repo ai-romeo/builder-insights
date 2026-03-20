@@ -1,52 +1,56 @@
-name: Generate Feeds
+name: Generate Feed
 
 on:
   schedule:
-    # Both tweets and podcasts: once daily at 6am UTC
-    - cron: '0 6 * * *'
-  workflow_dispatch:
-    inputs:
-      mode:
-        description: 'What to fetch'
-        required: false
-        default: 'all'
-        type: choice
-        options:
-          - all
-          - tweets-only
-          - podcasts-only
+    # Run every 6 hours for tweets, every 24 hours for podcasts
+    - cron: '0 */6 * * *'  # Tweets: 00:00, 06:00, 12:00, 18:00 UTC
+    - cron: '0 0 * * *'    # Podcasts: 00:00 UTC (daily)
+  workflow_dispatch:       # Allow manual trigger
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
+    
     steps:
       - uses: actions/checkout@v4
-
-      - uses: actions/setup-node@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
           node-version: '20'
-
+          cache: 'npm'
+          cache-dependency-path: scripts/package-lock.json
+      
       - name: Install dependencies
-        run: cd scripts && npm install
-
-      - name: Generate feeds
+        run: |
+          cd scripts
+          npm ci
+      
+      - name: Generate X/Twitter feed
         env:
           X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
+        run: |
+          cd scripts
+          node generate-feed.js --tweets-only
+        continue-on-error: true
+      
+      - name: Generate Podcast feed
+        env:
           SUPADATA_API_KEY: ${{ secrets.SUPADATA_API_KEY }}
         run: |
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.mode }}" != "all" ]; then
-            cd scripts && node generate-feed.js --${{ inputs.mode }}
-          else
-            cd scripts && node generate-feed.js
-          fi
-
-      - name: Commit and push feeds
+          cd scripts
+          node generate-feed.js --podcasts-only
+        continue-on-error: true
+      
+      - name: Commit and push if changed
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add feed-x.json feed-podcasts.json state-feed.json
-          git diff --cached --quiet || git commit -m "chore: update feeds [skip ci]"
-          git push
+          git config --local user.email "ai-romeo@users.noreply.github.com"
+          git config --local user.name "ai-romeo"
+          git add -A
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: auto-update feed $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          else
+            echo "No changes to commit"
+          fi
+        continue-on-error: true
