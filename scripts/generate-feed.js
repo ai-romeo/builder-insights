@@ -278,13 +278,16 @@ async function main() {
   const xBearerToken = process.env.X_BEARER_TOKEN;
   const supadataKey = process.env.SUPADATA_API_KEY;
 
+  // Gracefully handle missing API keys (exit 0 instead of 1)
   if (!tweetsOnly && !supadataKey) {
-    console.error('SUPADATA_API_KEY not set');
-    process.exit(1);
+    console.log('::warning::SUPADATA_API_KEY not set, skipping podcast feed generation');
+    console.log('No changes made - configure SUPADATA_API_KEY secret to enable podcast feeds');
+    process.exit(0);  // Exit successfully, not an error
   }
   if (!podcastsOnly && !xBearerToken) {
-    console.error('X_BEARER_TOKEN not set');
-    process.exit(1);
+    console.log('::warning::X_BEARER_TOKEN not set, skipping X/Twitter feed generation');
+    console.log('No changes made - configure X_BEARER_TOKEN secret to enable X feeds');
+    process.exit(0);  // Exit successfully, not an error
   }
 
   const sources = await loadSources();
