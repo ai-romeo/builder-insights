@@ -10,14 +10,18 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Needed for git push
     
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0  # Fetch all history for git push
       
       - name: Setup Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v5
         with:
-          node-version: '20'
+          node-version: '22'
           cache: 'npm'
           cache-dependency-path: scripts/package-lock.json
       
@@ -31,26 +35,35 @@ jobs:
           X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
         run: |
           cd scripts
-          node generate-feed.js --tweets-only
-        continue-on-error: true
+          echo "Starting X/Twitter feed generation..."
+          if [ -z "$X_BEARER_TOKEN" ]; then
+            echo "::warning::X_BEARER_TOKEN is not set. Skipping X feed generation."
+            exit 0
+          fi
+          node generate-feed.js --tweets-only || echo "::warning::X feed generation failed"
       
       - name: Generate Podcast feed
         env:
           SUPADATA_API_KEY: ${{ secrets.SUPADATA_API_KEY }}
         run: |
           cd scripts
-          node generate-feed.js --podcasts-only
-        continue-on-error: true
+          echo "Starting Podcast feed generation..."
+          if [ -z "$SUPADATA_API_KEY" ]; then
+            echo "::warning::SUPADATA_API_KEY is not set. Skipping Podcast feed generation."
+            exit 0
+          fi
+          node generate-feed.js --podcasts-only || echo "::warning::Podcast feed generation failed"
       
       - name: Commit and push if changed
         run: |
+          cd scripts
           git config --local user.email "ai-romeo@users.noreply.github.com"
           git config --local user.name "ai-romeo"
           git add -A
           if ! git diff --staged --quiet; then
             git commit -m "chore: auto-update feed $(date -u '+%Y-%m-%d %H:%M UTC')"
             git push
+            echo "::notice::Feed updated successfully"
           else
-            echo "No changes to commit"
+            echo "::notice::No changes to commit"
           fi
-        continue-on-error: true
