@@ -103,10 +103,10 @@ node prepare-digest.js
 ### X/Twitter 建造者（25 位）
 
 **全球（19 位）：**
-[Garry Tan](https://x.com/garrytan), [Steven Bartlett](https://x.com/StevenBartlett), [Ish Verduzco](https://x.com/ishverduzco), [Oogie](https://x.com/oggii_0), [Paul Graham](https://x.com/paulg), [Josh Woodward](https://x.com/joshwoodward), [TechieSA](https://x.com/TechieBySA), [Amira Zairi](https://x.com/azed_ai), [Adam Grant](https://x.com/AdamMGrant), [Chris Williamson](https://x.com/ChrisWillx), [Alex Hormozi](https://x.com/AlexHormozi), [Andrew Huberman](https://x.com/hubermanlab), [Lulu Cheng Meservey](https://x.com/lulumeservey), [DAN KOE](https://x.com/thedankoe), [Naval](https://x.com/naval), [Andrej Karpathy](https://x.com/karpathy), [Ray Dalio](https://x.com/RayDalio), [John Rush](https://x.com/johnrushx)
+[Garry Tan](https://x.com/garrytan) · [Steven Bartlett](https://x.com/StevenBartlett) · [Ish Verduzco](https://x.com/ishverduzco) · [Oogie](https://x.com/oggii_0) · [Paul Graham](https://x.com/paulg) · [Josh Woodward](https://x.com/joshwoodward) · [TechieSA](https://x.com/TechieBySA) · [Amira Zairi](https://x.com/azed_ai) · [Adam Grant](https://x.com/AdamMGrant) · [Chris Williamson](https://x.com/ChrisWillx) · [Alex Hormozi](https://x.com/AlexHormozi) · [Andrew Huberman](https://x.com/hubermanlab) · [Lulu Cheng Meservey](https://x.com/lulumeservey) · [DAN KOE](https://x.com/thedankoe) · [Naval](https://x.com/naval) · [Andrej Karpathy](https://x.com/karpathy) · [Ray Dalio](https://x.com/RayDalio) · [John Rush](https://x.com/johnrushx)
 
 **中文（6 位）：**
-[向阳乔木](https://x.com/vista8), [李举刚](https://x.com/justinleei), [凡人小北](https://x.com/frxiaobei), [Orange AI](https://x.com/oran_ge), [李继刚](https://x.com/lijigang), [宝玉](https://x.com/dotey)
+[向阳乔木](https://x.com/vista8) · [李举刚](https://x.com/justinleei) · [凡人小北](https://x.com/frxiaobei) · [Orange AI](https://x.com/oran_ge) · [李继刚](https://x.com/lijigang) · [宝玉](https://x.com/dotey)
 
 ---
 
