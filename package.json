@@ -1,0 +1,39 @@
+{
+  "name": "builder-insights",
+  "version": "2.0.0",
+  "description": "AI Builders Digest — Track what AI builders are actually building, not what influencers are saying. Follow the signal, ignore the noise.",
+  "type": "module",
+  "scripts": {
+    "fetch": "node scripts/fetch-content.js",
+    "prepare": "node scripts/prepare-digest.js",
+    "deliver": "node scripts/deliver.js",
+    "test": "node --test scripts/test/*.test.js"
+  },
+  "keywords": [
+    "ai",
+    "builders",
+    "twitter",
+    "digest",
+    "openclaw",
+    "skill",
+    "insights",
+    "signal"
+  ],
+  "author": "ai-romeo",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ai-romeo/builder-insights.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ai-romeo/builder-insights/issues"
+  },
+  "homepage": "https://github.com/ai-romeo/builder-insights#readme",
+  "dependencies": {
+    "dotenv": "^16.4.0",
+    "proper-lockfile": "^4.1.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
