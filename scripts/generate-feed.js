@@ -21,8 +21,8 @@ import { join } from 'path';
 
 const SUPADATA_BASE = 'https://api.supadata.ai/v1';
 const X_API_BASE = 'https://api.x.com/2';
-const LOOKBACK_HOURS = 24;
-const MAX_TWEETS_PER_USER = 3;
+const LOOKBACK_HOURS = 12;
+const MAX_TWEETS_PER_USER = 3;  // Reduced from 5 to stay within free tier
 
 // State file lives in the repo root so it gets committed by GitHub Actions
 const SCRIPT_DIR = decodeURIComponent(new URL('.', import.meta.url).pathname);

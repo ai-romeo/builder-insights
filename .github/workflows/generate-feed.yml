@@ -2,8 +2,9 @@ name: Generate Feed
 
 on:
   schedule:
-    # Run every 6 hours for tweets, every 24 hours for podcasts
-    - cron: '0 */6 * * *'  # Tweets: 00:00, 06:00, 12:00, 18:00 UTC
+    # Run every 12 hours for tweets (to stay within free tier)
+    - cron: '0 */12 * * *'  # Tweets: 00:00, 12:00 UTC
+    # Run daily for podcasts
     - cron: '0 0 * * *'    # Podcasts: 00:00 UTC (daily)
   workflow_dispatch:       # Allow manual trigger
 
