@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-21T00:43:38.033Z",
+  "generatedAt": "2026-03-21T01:04:58.015Z",
   "lookbackHours": 12,
   "x": [
     {
@@ -9,127 +9,26 @@
       "bio": "President & CEO @ycombinator —Founder https://t.co/7aoJjp1iIK—designer/engineer who helps founders—SF Dem accelerating the boom loop—haters not allowed in my sauna",
       "tweets": [
         {
-          "id": "2035137084357583142",
-          "text": "The other really cool thing about /plan-ceo-mode is that it just looks for delightful and GREAT feature ideas that make the software feel magical. \n\nThis is one of them. https://t.co/wRZDNGKiGQ",
-          "createdAt": "2026-03-20T23:31:06.000Z",
-          "url": "https://x.com/garrytan/status/2035137084357583142",
-          "likes": 11,
-          "retweets": 1,
-          "replies": 1,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2035136242866901104",
-          "text": "Look ma, GStack is blowing up on Chinese Language Twitter! https://t.co/2VG0J9UjVW",
-          "createdAt": "2026-03-20T23:27:45.000Z",
-          "url": "https://x.com/garrytan/status/2035136242866901104",
-          "likes": 53,
+          "id": "2035134285985063236",
+          "text": "Markdown is a language of intent that tolerates ambiguity; Python/JS/Ruby are languages of execution that demand precision. In the LLM era, the first is becoming as important as the second.\n\nUse the best tool for the job at hand. It won't be one or the other every time. https://t.co/MUb83pQETD",
+          "createdAt": "2026-03-20T23:19:59.000Z",
+          "url": "https://x.com/garrytan/status/2035134285985063236",
+          "likes": 45,
           "retweets": 0,
-          "replies": 10,
+          "replies": 14,
           "isQuote": true,
-          "quotedTweetId": "2035136034946912707"
+          "quotedTweetId": "2035107699084730648"
         },
         {
-          "id": "2035135959449371085",
-          "text": "/plan-ceo-mode in GStack can do this \"zoom out\" trick for any thing your codebase already does. \n\nSoon my /browse skill will not just be just a Playwright wrapper but one where my Claude Code will be able to do real work for me. \n\nA new thing is emerging: I don't want to write https://t.co/F31T7AAVIT",
-          "createdAt": "2026-03-20T23:26:38.000Z",
-          "url": "https://x.com/garrytan/status/2035135959449371085",
-          "likes": 83,
-          "retweets": 4,
-          "replies": 9,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Steven Bartlett",
-      "handle": "StevenBartlett",
-      "bio": "Founder of https://t.co/XxTAZe4jhE - The Creator Economy Company. Investor in 100 companies±. Groq, SpaceX, Lovable, Replit, MrBeast, Whoop etc",
-      "tweets": [
-        {
-          "id": "2035152876880687602",
-          "text": "You can watch the full conversation here: https://t.co/e6wtIRazmp",
-          "createdAt": "2026-03-21T00:33:51.000Z",
-          "url": "https://x.com/StevenBartlett/status/2035152876880687602",
-          "likes": 1,
-          "retweets": 1,
-          "replies": 0,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2035152808094175568",
-          "text": "“This nearly destroyed Feastables”\n\n- MrBeast. https://t.co/66pbLxPQ8G",
-          "createdAt": "2026-03-21T00:33:35.000Z",
-          "url": "https://x.com/StevenBartlett/status/2035152808094175568",
-          "likes": 8,
-          "retweets": 1,
-          "replies": 2,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Paul Graham",
-      "handle": "paulg",
-      "bio": "",
-      "tweets": [
-        {
-          "id": "2035059554950504730",
-          "text": "I can already tell this one is going to be good. https://t.co/Kmjl1qPPY0",
-          "createdAt": "2026-03-20T18:23:02.000Z",
-          "url": "https://x.com/paulg/status/2035059554950504730",
-          "likes": 74,
-          "retweets": 1,
-          "replies": 16,
+          "id": "2035131551252644093",
+          "text": "Accurate https://t.co/zRFI7GHsEO",
+          "createdAt": "2026-03-20T23:09:07.000Z",
+          "url": "https://x.com/garrytan/status/2035131551252644093",
+          "likes": 51,
+          "retweets": 9,
+          "replies": 6,
           "isQuote": true,
-          "quotedTweetId": "2035052703529730059"
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "TechieSA",
-      "handle": "TechieBySA",
-      "bio": "🚀AI tools, prompts & wild ideas built for curious minds🤖CPP: @Wireflowai @BasedLabsAI @AltSocietyAI",
-      "tweets": [
-        {
-          "id": "2035093992484856087",
-          "text": "Chibi Characters by Grok Imagine✨\n\nShare your version below!⤵️ https://t.co/ESaHiTpa5H",
-          "createdAt": "2026-03-20T20:39:52.000Z",
-          "url": "https://x.com/TechieBySA/status/2035093992484856087",
-          "likes": 26,
-          "retweets": 1,
-          "replies": 4,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2035053286164725882",
-          "text": "Just replace [SHOW/MOVIE]:👇🏻\n\n“High-quality stylized 3D CGI Pixar-style render, vertical 3:4 composition, the most iconic characters from [SHOW/MOVIE] captured as a chaotic and joyful bathroom mirror selfie; the most recognizable character holds a large vintage camera up toward",
-          "createdAt": "2026-03-20T17:58:07.000Z",
-          "url": "https://x.com/TechieBySA/status/2035053286164725882",
-          "likes": 11,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2035053281492221962",
-          "text": "Trying more TV Show Mirror Selfie examples📸\n\nPrompt👇🏻 https://t.co/DPOu347gdg https://t.co/4MRDRBcYWv",
-          "createdAt": "2026-03-20T17:58:06.000Z",
-          "url": "https://x.com/TechieBySA/status/2035053281492221962",
-          "likes": 54,
-          "retweets": 7,
-          "replies": 11,
-          "isQuote": true,
-          "quotedTweetId": "2032557237437116521"
+          "quotedTweetId": "2035117043402645519"
         }
       ]
     },
@@ -140,206 +39,34 @@
       "bio": "喜欢摇滚乐、爱钓鱼的PM\n网站：https://t.co/vnUpLt752o",
       "tweets": [
         {
-          "id": "2035137142306087322",
-          "text": "梯度是一个信号，告诉你：你错了，往哪个方向改，改多少。\n\n讲了一个概念，别人没听懂。\n\n这个\"没听懂\"就是loss，就是输出和真正理解之间的差距。\n\n问题到底出在哪一层？\n\n是比喻不好？还是对概念拆解是错的？还是根上就没搞清楚本质？\n\n回传就是上面追问的过程，从结果一路往回查。",
-          "createdAt": "2026-03-20T23:31:20.000Z",
-          "url": "https://x.com/vista8/status/2035137142306087322",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2035135683367780388",
-          "text": "费曼学习法就是人工的反向传播。\n\n读懂一个东西不够，还得用自己的话讲出来。\n\n讲不清楚，说明梯度没有回传到底层，只是在表面记住了token的排列顺序，权重没更新。\n\n费曼方法在测试梯度到底传到了哪一层。\n\n讲不出来，说明只动了表层。\n\n讲得出来但不够简单，说明传到了中间层。",
-          "createdAt": "2026-03-20T23:25:32.000Z",
-          "url": "https://x.com/vista8/status/2035135683367780388",
-          "likes": 28,
-          "retweets": 6,
-          "replies": 1,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2035130894219190593",
-          "text": "让AI分析类比下，向大模型训练一样去反观人类的学习。\n\n互相印证启发，很有趣。 https://t.co/FL2HQsjpG2 https://t.co/XCvLJRiDOU",
-          "createdAt": "2026-03-20T23:06:30.000Z",
-          "url": "https://x.com/vista8/status/2035130894219190593",
-          "likes": 3,
-          "retweets": 2,
-          "replies": 1,
-          "isQuote": true,
-          "quotedTweetId": "2035129402976260339"
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Amira Zairi",
-      "handle": "azed_ai",
-      "bio": "AI Educator & Creator | Ambassador @Adobe @LeonardoAi & @tripoai | Partner with leading brands | 📧 Collaboration → hello@amirazairi.com",
-      "tweets": [
-        {
-          "id": "2035060045713744262",
-          "text": "The most powerful AI products won’t ask for more screen time, they’ll remove the need for it\n\ntinyNature on WhatsApp is the first time that actually clicked for me https://t.co/30Wu9SClR4",
-          "createdAt": "2026-03-20T18:24:59.000Z",
-          "url": "https://x.com/azed_ai/status/2035060045713744262",
+          "id": "2035129402976260339",
+          "text": "书籍、文章、播客都只是大脑的训练语料。\n\n大模型不因为读完了整个互联网而变得聪明，而是因为在海量token中涌现了注意力的远程依赖。\n\n人也一样：一本书翻到第三页就放下，没关系。\n\n但如果那三页，让你大脑里两个从未对话的区域突然通了电。\n\n这就是一次有效的参数更新，也就是我们的学习收获。",
+          "createdAt": "2026-03-20T23:00:35.000Z",
+          "url": "https://x.com/vista8/status/2035129402976260339",
           "likes": 17,
+          "retweets": 1,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Andrej Karpathy",
+      "handle": "karpathy",
+      "bio": "I like to train large deep neural nets. Previously Director of AI @ Tesla, founding team @ OpenAI, PhD @ Stanford.",
+      "tweets": [
+        {
+          "id": "2035158351357911527",
+          "text": "Thank you Sarah, my pleasure to come on the pod! And happy to do some more Q&amp;A in the replies. https://t.co/uIeUtFxDkm",
+          "createdAt": "2026-03-21T00:55:37.000Z",
+          "url": "https://x.com/karpathy/status/2035158351357911527",
+          "likes": 100,
           "retweets": 2,
-          "replies": 6,
+          "replies": 24,
           "isQuote": true,
-          "quotedTweetId": "2035024324730802675"
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "凡人小北",
-      "handle": "frxiaobei",
-      "bio": "行道途中。非求速成，惟求通达。 2023 年全面拥抱 AIGC，打通 Know-How，长期在真实业务与组织中实践。 从技术、组织与人的协作与决策出发，解决真实问题。商业与管理咨询 | AI 顾问",
-      "tweets": [
-        {
-          "id": "2034990276088066222",
-          "text": "上一条在说 OpenClaw 不安全，但顺着往下推，区块链和 AI 这两者可能会落到一个挺具体的场景：支付。\n\n这也是最近在思考的一件事，一旦想让 AI 干更多的活，支付是绕不开的。\n\n很多需要真正有结果的动作都要走到钱这一步。\n\n但问题也刚好卡在这里，支付天然厌恶风险。\n\n一个长期运行的",
-          "createdAt": "2026-03-20T13:47:44.000Z",
-          "url": "https://x.com/frxiaobei/status/2034990276088066222",
-          "likes": 4,
-          "retweets": 0,
-          "replies": 2,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2034981585402175651",
-          "text": "这也是为什么最近一下子冒出来这么多说小龙虾有安全问题的。\n\n问题本身一直都在，Claude Code 这类工具同样存在类似风险，只是过去用的人是开发者，很多东西是下意识会做防护的，比如权限隔离，最小授权这些。 https://t.co/ZNd4djz3WU",
-          "createdAt": "2026-03-20T13:13:12.000Z",
-          "url": "https://x.com/frxiaobei/status/2034981585402175651",
-          "likes": 5,
-          "retweets": 0,
-          "replies": 2,
-          "isQuote": true,
-          "quotedTweetId": "2034903827170959733"
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Chris Williamson",
-      "handle": "ChrisWillx",
-      "bio": "Dialled",
-      "tweets": [
-        {
-          "id": "2035062868807184843",
-          "text": "Gen Z men are more likely to believe that a wife should obey her husband than other generations.\n\nA global poll of 23,000 people found that 31% of Gen Z men agreed that a wife should always obey her husband.\n\n33% also felt a husband should have the final word on important https://t.co/mSJZdqoEZE",
-          "createdAt": "2026-03-20T18:36:12.000Z",
-          "url": "https://x.com/ChrisWillx/status/2035062868807184843",
-          "likes": 1155,
-          "retweets": 69,
-          "replies": 193,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Alex Hormozi",
-      "handle": "AlexHormozi",
-      "bio": "Co-Founder: https://t.co/gQN7OehYd2, https://t.co/VLS8LzeasI. Business Owners: Get your 2026 free scaling roadmap 👇",
-      "tweets": [
-        {
-          "id": "2035131191272382647",
-          "text": "Passionate people work when they feel like it.\nCommitted people work because they've removed all other options.\nThe second beats the first every time.",
-          "createdAt": "2026-03-20T23:07:41.000Z",
-          "url": "https://x.com/AlexHormozi/status/2035131191272382647",
-          "likes": 582,
-          "retweets": 70,
-          "replies": 119,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2035084381153632757",
-          "text": "If you've been thinking about starting a business for more than 6 months, stop.\n\nJust offer to do something. Anything. For someone else. In exchange for money. Today.\n\nAnd when you do, congrats, you own a business. \n\nNow you just gotta do more and better until the day you die.",
-          "createdAt": "2026-03-20T20:01:41.000Z",
-          "url": "https://x.com/AlexHormozi/status/2035084381153632757",
-          "likes": 1548,
-          "retweets": 108,
-          "replies": 192,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Orange AI",
-      "handle": "oran_ge",
-      "bio": "CEO of MarsWave. Build for Agents, by Agents.",
-      "tweets": [
-        {
-          "id": "2035144622050353640",
-          "text": "作者 @garrytan thank you",
-          "createdAt": "2026-03-21T00:01:03.000Z",
-          "url": "https://x.com/oran_ge/status/2035144622050353640",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2035122128870396329",
-          "text": "播客地址 https://t.co/yYT3ccu5ym\n\n互联网已死，Agent 永生\nhttps://t.co/RQfL7A6ESE",
-          "createdAt": "2026-03-20T22:31:40.000Z",
-          "url": "https://x.com/oran_ge/status/2035122128870396329",
-          "likes": 18,
-          "retweets": 1,
-          "replies": 0,
-          "isQuote": true,
-          "quotedTweetId": "2020649409521041502"
-        },
-        {
-          "id": "2035121401754263768",
-          "text": "刚看完 Andrej Karpathy 的播客，他说他病了，得了严重的 AI 精神病。\n\n他说从12月开始就没手写过一行代码了。每天对着 Agent 说话16小时，同时开十几个 Agent 并行跑任务，token 没花完就焦虑。他管这叫\"AI精神病\"。\n\n他说 App 该消失了。智能家居不应该有六个 App，设备只需要暴露 API，Agent https://t.co/qmQkGxxuQZ",
-          "createdAt": "2026-03-20T22:28:47.000Z",
-          "url": "https://x.com/oran_ge/status/2035121401754263768",
-          "likes": 213,
-          "retweets": 37,
-          "replies": 11,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Zara Zhang",
-      "handle": "zarazhangrui",
-      "bio": "Builder. Dangerously skips permissions. Harvard’17. YouTube: https://t.co/8xzbGWtf6w Substack: https://t.co/dDPEWGiuBW",
-      "tweets": [
-        {
-          "id": "2035069962944225634",
-          "text": "@karpathy @NoPriorsPod @AnyGenIO Check it out: https://t.co/zoJjIjDT13",
-          "createdAt": "2026-03-20T19:04:23.000Z",
-          "url": "https://x.com/zarazhangrui/status/2035069962944225634",
-          "likes": 4,
-          "retweets": 1,
-          "replies": 0,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2035069916215484495",
-          "text": "The new @karpathy podcast with @NoPriorsPod  is a must-watch. I turned the most surprising insights &amp; anecdotes into a webpage. For each, you can easily jump to the timetamp in the video where it occurred. \n\nMade with @AnyGenIO (the most underrated AI tool out there)\n\nLink below! https://t.co/1WXo7yZmRE",
-          "createdAt": "2026-03-20T19:04:12.000Z",
-          "url": "https://x.com/zarazhangrui/status/2035069916215484495",
-          "likes": 127,
-          "retweets": 7,
-          "replies": 5,
-          "isQuote": false,
-          "quotedTweetId": null
+          "quotedTweetId": "2035080458304987603"
         }
       ]
     },
@@ -350,43 +77,21 @@
       "bio": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
       "tweets": [
         {
-          "id": "2035141635713941927",
-          "text": "https://t.co/7tmo44tlDv",
-          "createdAt": "2026-03-20T23:49:11.000Z",
-          "url": "https://x.com/dotey/status/2035141635713941927",
-          "likes": 36,
-          "retweets": 7,
-          "replies": 3,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2035098758783148061",
-          "text": "@Kimi_Moonshot 紧接着，Cursor 联合创始人 Aman Sanger 也发了一条详细回应。他解释了技术路径：团队评估了大量基座模型，Kimi K2.5 在困惑度指标上表现最强，之后 Cursor 在此基础上做了持续预训练和 4 倍算力规模的强化学习。https://t.co/1QNzHGGRsb\n\n他承认在发布博客中没有提到 Kimi",
-          "createdAt": "2026-03-20T20:58:49.000Z",
-          "url": "https://x.com/dotey/status/2035098758783148061",
-          "likes": 7,
-          "retweets": 0,
-          "replies": 3,
+          "id": "2035067094090526746",
+          "text": "针对为什么没有点名 KIMI 的质疑，Lee 随后发了第二条推文，这次直接点了名：\"KIMI K2.5\"，承认这就是 Composer 2 的基座模型，并重申 Cursor 正在通过推理合作伙伴（比如 Fireworks）的条款遵守许可证，还表示个人对开源模型心怀感激。\nhttps://t.co/g43eTaZDvA\n\n问了下 Claude",
+          "createdAt": "2026-03-20T18:52:59.000Z",
+          "url": "https://x.com/dotey/status/2035067094090526746",
+          "likes": 13,
+          "retweets": 1,
+          "replies": 6,
           "isQuote": true,
-          "quotedTweetId": "2035079293257359663"
-        },
-        {
-          "id": "2035098528658112704",
-          "text": "Moonshot AI 的官方账号 @Kimi_Moonshot 发推祝贺 Cursor 发布 Composer 2，表示\"很自豪看到 Kimi K2.5 提供了基础\"，并确认 Cursor 是通过 Fireworks 的托管推理和强化学习平台获得授权的商业合作伙伴。措辞从 Yulun Du 几小时前的公开质问，180 度转向了官方背书。\nhttps://t.co/OfMs0lm7ZI",
-          "createdAt": "2026-03-20T20:57:54.000Z",
-          "url": "https://x.com/dotey/status/2035098528658112704",
-          "likes": 5,
-          "retweets": 0,
-          "replies": 1,
-          "isQuote": true,
-          "quotedTweetId": "2035074972943831491"
+          "quotedTweetId": "2035050444347600936"
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 12,
-    "totalTweets": 26
+    "xBuilders": 4,
+    "totalTweets": 5
   }
 }
