@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-22T01:47:51.591Z",
+  "generatedAt": "2026-03-22T12:27:11.930Z",
   "lookbackHours": 12,
   "x": [
     {
@@ -9,26 +9,97 @@
       "bio": "President & CEO @ycombinator —Founder https://t.co/7aoJjp1iIK—designer/engineer who helps founders—SF Dem accelerating the boom loop—haters not allowed in my sauna",
       "tweets": [
         {
-          "id": "2035445274114703637",
-          "text": "I'm just fixing bugs I find annoying myself. I found it annoying to keep track of whether ceo and design and eng reviews were done yet, so I fixed this https://t.co/FSONZuERDb",
-          "createdAt": "2026-03-21T19:55:44.000Z",
-          "url": "https://x.com/garrytan/status/2035445274114703637",
-          "likes": 9,
+          "id": "2035634992211190214",
+          "text": "Yeah we have an AI addiction and it’s awesome https://t.co/gsrIPjQLXE",
+          "createdAt": "2026-03-22T08:29:37.000Z",
+          "url": "https://x.com/garrytan/status/2035634992211190214",
+          "likes": 125,
+          "retweets": 17,
+          "replies": 42,
+          "isQuote": true,
+          "quotedTweetId": "2035121401754263768"
+        },
+        {
+          "id": "2035539745284177982",
+          "text": "This is what I’ve been open sourcing with gstack. \n\nThis is my CLI toolset. There are many like it but this one is mine. https://t.co/45gnTBlEvN",
+          "createdAt": "2026-03-22T02:11:08.000Z",
+          "url": "https://x.com/garrytan/status/2035539745284177982",
+          "likes": 155,
+          "retweets": 7,
+          "replies": 23,
+          "isQuote": true,
+          "quotedTweetId": "2035075538012742021"
+        },
+        {
+          "id": "2035534851819151731",
+          "text": "Many such cases\n\nBut you should get a good MacBook Pro https://t.co/kwR464kZNN",
+          "createdAt": "2026-03-22T01:51:41.000Z",
+          "url": "https://x.com/garrytan/status/2035534851819151731",
+          "likes": 106,
+          "retweets": 5,
+          "replies": 12,
+          "isQuote": true,
+          "quotedTweetId": "2035470407801962498"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Oogie",
+      "handle": "oggii_0",
+      "bio": "AI | Tech | Collaboration | DM for Al tools collabs 📩 CPP: @socialsight",
+      "tweets": [
+        {
+          "id": "2035686674626482384",
+          "text": "Photoshoots were once just locations.\nNow, they’re entire universes.\n\nWalk in. Explore without limits. Shoot what you feel.\nNo do-overs. No restrictions. https://t.co/XLGaQ26wBQ",
+          "createdAt": "2026-03-22T11:54:59.000Z",
+          "url": "https://x.com/oggii_0/status/2035686674626482384",
+          "likes": 4,
           "retweets": 0,
-          "replies": 1,
+          "replies": 2,
+          "isQuote": true,
+          "quotedTweetId": "2035090359198654870"
+        },
+        {
+          "id": "2035582838649827509",
+          "text": "Gemini Nano Banana Pro \n\nPrompt: Eco-Friendly Skincare Product “Minimalist skincare bottle made of frosted glass, placed in a serene natural setting with flowing water, green leaves, and soft sunlight rays, clean aesthetic inspired by The Body Shop, sustainability-focused https://t.co/CSllQd61Kn",
+          "createdAt": "2026-03-22T05:02:22.000Z",
+          "url": "https://x.com/oggii_0/status/2035582838649827509",
+          "likes": 65,
+          "retweets": 4,
+          "replies": 20,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "TechieSA",
+      "handle": "TechieBySA",
+      "bio": "🚀AI tools, prompts & wild ideas built for curious minds🤖CPP: @Wireflowai @BasedLabsAI @AltSocietyAI",
+      "tweets": [
+        {
+          "id": "2035685462078075067",
+          "text": "“Restyle the reference movie poster in claymation style. Keep the original layout, composition, and lighting exactly as in the reference. Transform all characters, objects, and elements into handcrafted clay models with visible fingerprints, soft edges, and subtle imperfections.",
+          "createdAt": "2026-03-22T11:50:10.000Z",
+          "url": "https://x.com/TechieBySA/status/2035685462078075067",
+          "likes": 5,
+          "retweets": 0,
+          "replies": 0,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2035434687620075562",
-          "text": "It turns out more adversarial code review just results in much better outcomes and fewer bugs in production https://t.co/CvIMkUg6Yx",
-          "createdAt": "2026-03-21T19:13:40.000Z",
-          "url": "https://x.com/garrytan/status/2035434687620075562",
-          "likes": 14,
-          "retweets": 2,
-          "replies": 2,
-          "isQuote": false,
-          "quotedTweetId": null
+          "id": "2035685458357727507",
+          "text": "Claymation Movie Posters by Seedream 5.0🎥🍿\n\nPrompt👇🏻 https://t.co/zDm2TtNZa7 https://t.co/mDBsMWa0eF",
+          "createdAt": "2026-03-22T11:50:09.000Z",
+          "url": "https://x.com/TechieBySA/status/2035685458357727507",
+          "likes": 19,
+          "retweets": 3,
+          "replies": 5,
+          "isQuote": true,
+          "quotedTweetId": "2035444632939589632"
         }
       ]
     },
@@ -39,24 +110,117 @@
       "bio": "喜欢摇滚乐、爱钓鱼的PM\n网站：https://t.co/vnUpLt752o",
       "tweets": [
         {
-          "id": "2035527302734610546",
-          "text": "把Lenny的649个Markdown文件转成Skill，对话式学习。\n\nLenny资料包下载：https://t.co/scFVNAYxby\n\nSkill安装 npx skills add joeseesun/lennys-podcast-newsletter\n\nGithub：https://t.co/krdtlax54e https://t.co/EdNUISTBdk",
-          "createdAt": "2026-03-22T01:21:41.000Z",
-          "url": "https://x.com/vista8/status/2035527302734610546",
-          "likes": 7,
+          "id": "2035588915139399771",
+          "text": "飞书Skill：https://t.co/PY1BppBiS3\n\n任意网页转Markdown，支持微信、X和飞书：https://t.co/vJWsVbvw2u\n\nLenny 的产品经理宝典Skill：https://t.co/krdtlax54e",
+          "createdAt": "2026-03-22T05:26:31.000Z",
+          "url": "https://x.com/vista8/status/2035588915139399771",
+          "likes": 18,
+          "retweets": 4,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2035588381426757983",
+          "text": "客观说说微信龙虾clawbot的优点和缺点：\n\n优点：\n1. 离用户最近，对国内普通人友好。\n2. 原生支持语音输入。\n\n缺点：\n1. 只支持手机，不支持Mac，第一次在微信看到这么割裂的体验。\n2. 目前Bug不少，不支持流式输出，信息回复都是乱的。\n3. Markdown支持很差很差，链接都不能点",
+          "createdAt": "2026-03-22T05:24:24.000Z",
+          "url": "https://x.com/vista8/status/2035588381426757983",
+          "likes": 46,
+          "retweets": 2,
+          "replies": 22,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2035572151915618614",
+          "text": "第三方接入微信机器人项目 https://t.co/dMRIN8D6lP",
+          "createdAt": "2026-03-22T04:19:54.000Z",
+          "url": "https://x.com/vista8/status/2035572151915618614",
+          "likes": 1,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": true,
+          "quotedTweetId": "2035568871588217019"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Amira Zairi",
+      "handle": "azed_ai",
+      "bio": "AI Educator & Creator | Ambassador @Adobe @LeonardoAi & @tripoai | Partner with leading brands | 📧 Collaboration → hello@amirazairi.com",
+      "tweets": [
+        {
+          "id": "2035672892294451691",
+          "text": "Prompt share: Product photography\n\n💬Prompt:\nstudio shot of [PRODUCT], placed on a [background], surrounded by soft shadows and gradient background, high-key lighting, shallow depth of field, ultra-sharp focus on the object, premium product photography, shot on a DSLR, minimal https://t.co/ZhfkDQKD8t",
+          "createdAt": "2026-03-22T11:00:13.000Z",
+          "url": "https://x.com/azed_ai/status/2035672892294451691",
+          "likes": 44,
+          "retweets": 9,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2035627603768590514",
+          "text": "Newly created style on Midjourney\n\n--sref 7809680056 https://t.co/ntA6QztIUC",
+          "createdAt": "2026-03-22T08:00:15.000Z",
+          "url": "https://x.com/azed_ai/status/2035627603768590514",
+          "likes": 27,
+          "retweets": 2,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2035583007655076337",
+          "text": "Good morning\n\nYou are allowed to move at your own pace. https://t.co/ULipdApxv8",
+          "createdAt": "2026-03-22T05:03:02.000Z",
+          "url": "https://x.com/azed_ai/status/2035583007655076337",
+          "likes": 42,
+          "retweets": 0,
+          "replies": 14,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "凡人小北",
+      "handle": "frxiaobei",
+      "bio": "行道途中。非求速成，惟求通达。\n在真实业务与组织中持续验证 AI 的价值与边界。\n个人 IP｜商业与管理｜AI 咨询",
+      "tweets": [
+        {
+          "id": "2035644925874950385",
+          "text": "所以从这个角度看，这一波医疗 AI，不一定是大公司专属。\n\n如果把问题理解成拼模型，那确实没机会。\n算力、数据和人才，基本都在大厂手里。\n\n但如果问题变成谁更懂具体场景，以及谁能把 workflow 打磨到可用，那格局就完全不一样了。\n\n这是一个典型的知识 + 流程 + 约束的行业。",
+          "createdAt": "2026-03-22T09:09:05.000Z",
+          "url": "https://x.com/frxiaobei/status/2035644925874950385",
+          "likes": 1,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2035641993683226837",
+          "text": "我有一个不太主流的判断：\n医疗 AI 不一定会先被最大模型吃掉。甚至有可能，最先真正落地的是一批被精心约束过的小模型系统。\n\n这几年 AI 行业的宏观叙事一直是 scaling low，大家都默认模型越大代表能力越强，能力越强更适合复杂场景。\n\n这一点在很多地方成立，但医疗行业有点不太一样。",
+          "createdAt": "2026-03-22T08:57:26.000Z",
+          "url": "https://x.com/frxiaobei/status/2035641993683226837",
+          "likes": 1,
           "retweets": 0,
           "replies": 2,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2035526904300875956",
-          "text": "资料下载：https://t.co/scFVNAYxby\n\nSkill安装：https://t.co/krdtlax54e https://t.co/jiRcrLjBWd",
-          "createdAt": "2026-03-22T01:20:06.000Z",
-          "url": "https://x.com/vista8/status/2035526904300875956",
-          "likes": 2,
+          "id": "2035641990269059429",
+          "text": "刚看到新闻，月初的时候 OpenEvidence 一天 100 万次临床咨询达成。\n\n站在行业视角看分工开始发生变化了。不管你怎么杠这个行业有多难进入，AI 贴着医生的真实工作流确实发生了。\n\n也难怪 OpenAI、Anthropic、Google、Microsoft 都在往医疗里挤。",
+          "createdAt": "2026-03-22T08:57:25.000Z",
+          "url": "https://x.com/frxiaobei/status/2035641990269059429",
+          "likes": 10,
           "retweets": 0,
-          "replies": 0,
+          "replies": 3,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -69,21 +233,160 @@
       "bio": "Co-Founder: https://t.co/gQN7OehYd2, https://t.co/VLS8LzeasI. Business Owners: Get your 2026 free scaling roadmap 👇",
       "tweets": [
         {
-          "id": "2035526767797260655",
-          "text": "This is my ultimate signal to noise filter (it's written on my whiteboard above my computer screen):\nWhenever someone brings me a problem...\n1) What does that mean?\n2) How do you know that\n3) Why does it matter?\n\nLogic - Evidence - Utility.",
-          "createdAt": "2026-03-22T01:19:34.000Z",
-          "url": "https://x.com/AlexHormozi/status/2035526767797260655",
-          "likes": 203,
-          "retweets": 24,
-          "replies": 37,
+          "id": "2035676547282288995",
+          "text": "Want to know who your real friends are?\n\nTell them about a big goal you achieved and remove everyone who downplays it - immediately.",
+          "createdAt": "2026-03-22T11:14:44.000Z",
+          "url": "https://x.com/AlexHormozi/status/2035676547282288995",
+          "likes": 892,
+          "retweets": 69,
+          "replies": 167,
           "isQuote": false,
           "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Lulu Cheng Meservey",
+      "handle": "lulumeservey",
+      "bio": "Rostra founder, Shopify board, ex Activision & Substack, writing https://t.co/4xKo7wQTQo",
+      "tweets": [
+        {
+          "id": "2035580787219722544",
+          "text": "Also: bad idea to take potshots at people armed with irrepressible mirth\n\nRamp will absolutely make lemonade now\n\nThey’ll make lemon themed swag, they’ll send a lemonade truck to your office, they’ll use lemon emojis in slack every time they hit a growth milestone, they’ll put a",
+          "createdAt": "2026-03-22T04:54:13.000Z",
+          "url": "https://x.com/lulumeservey/status/2035580787219722544",
+          "likes": 39,
+          "retweets": 1,
+          "replies": 3,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2035569874685087845",
+          "text": "Spokesman thought he cooked here, but OpenAI deserved better\n\nIt’s one thing to have a cute analogy (with help from ChatGPT?)\n\nIt’s another to be strategic with your comms, and belittling Ramp is the opposite\n\n1) This comment doesn’t even refute the conclusion! “Ramp credit card https://t.co/wO9Jj3M51L https://t.co/bLW68eL1q1",
+          "createdAt": "2026-03-22T04:10:51.000Z",
+          "url": "https://x.com/lulumeservey/status/2035569874685087845",
+          "likes": 122,
+          "retweets": 3,
+          "replies": 10,
+          "isQuote": true,
+          "quotedTweetId": "2035448598909886830"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Orange AI",
+      "handle": "oran_ge",
+      "bio": "CEO of MarsWave. Build for Agents, by Agents.",
+      "tweets": [
+        {
+          "id": "2035678121643692228",
+          "text": "济南的服务真的是意外的好\n还不是说每天被叫几十次“老师”那种表面的好\n\n刚刚吃饭的时候筷子不小心掉到地上\n我弯腰伸手刚捡起来筷子正要喊门外服务员\n一抬头已经有一双新筷子放在面前\n这也就10秒钟吧...\n太吓人了",
+          "createdAt": "2026-03-22T11:20:59.000Z",
+          "url": "https://x.com/oran_ge/status/2035678121643692228",
+          "likes": 15,
+          "retweets": 0,
+          "replies": 6,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2035624735594488164",
+          "text": "微信支持龙虾，这件事很有趣。\n即便是互联网旧世界的王者，也要为新世界的 Agent开入口。\n还在旧世界内卷外卖内卷电商内卷注意力的，不妨多看看新世界，好好建设一番。\n企业活着不是为了内卷，而是为了__",
+          "createdAt": "2026-03-22T07:48:51.000Z",
+          "url": "https://x.com/oran_ge/status/2035624735594488164",
+          "likes": 34,
+          "retweets": 4,
+          "replies": 16,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "李继刚",
+      "handle": "lijigang",
+      "bio": "Reader.  Thinker.  Prompter.",
+      "tweets": [
+        {
+          "id": "2035630193357025668",
+          "text": "大家都在说这个时代，「问题比答案更重要」，那如何内化呢？  \n\n我觉得可以从「显化性」问题开始：\n在笔记系统中，新建文件 Problems，记录自己遇到的卡点问题、困惑不解问题、重复执行陷顿其中的问题。  \n\n逐一认真对待，与AI 讨论碰撞，有些寻得一个新角度，有些固化形成一个skill.",
+          "createdAt": "2026-03-22T08:10:32.000Z",
+          "url": "https://x.com/lijigang/status/2035630193357025668",
+          "likes": 74,
+          "retweets": 12,
+          "replies": 4,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder. Dangerously skips permissions. Harvard’17. YouTube: https://t.co/8xzbGWtf6w Substack: https://t.co/dDPEWGiuBW",
+      "tweets": [
+        {
+          "id": "2035555143215886841",
+          "text": "We need to touch grass and read books",
+          "createdAt": "2026-03-22T03:12:19.000Z",
+          "url": "https://x.com/zarazhangrui/status/2035555143215886841",
+          "likes": 35,
+          "retweets": 1,
+          "replies": 3,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "宝玉",
+      "handle": "dotey",
+      "bio": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "tweets": [
+        {
+          "id": "2035621498707177923",
+          "text": "https://t.co/vDH6mz0hB7",
+          "createdAt": "2026-03-22T07:35:59.000Z",
+          "url": "https://x.com/dotey/status/2035621498707177923",
+          "likes": 30,
+          "retweets": 9,
+          "replies": 6,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2035601778062840128",
+          "text": "微信成也张小龙，败也张小龙\n微信早死早超生 https://t.co/vvMCiSL1sb",
+          "createdAt": "2026-03-22T06:17:38.000Z",
+          "url": "https://x.com/dotey/status/2035601778062840128",
+          "likes": 122,
+          "retweets": 1,
+          "replies": 39,
+          "isQuote": true,
+          "quotedTweetId": "2035572359944659312"
+        },
+        {
+          "id": "2035601041337602298",
+          "text": "我这个时间轴导出srt没问题，是原始的时间戳很准，但是生成文本的时候不准的，因为组合段落的时候，有时候要按照标点分割segment，这时候是按字符长度去估算时长的，会导致分割的不准。\nhttps://t.co/pL8JBWxEfx",
+          "createdAt": "2026-03-22T06:14:42.000Z",
+          "url": "https://x.com/dotey/status/2035601041337602298",
+          "likes": 4,
+          "retweets": 1,
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "2035595981102928189"
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 3,
-    "totalTweets": 5
+    "xBuilders": 12,
+    "totalTweets": 26
   }
 }
