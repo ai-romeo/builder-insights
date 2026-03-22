@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-21T12:25:57.534Z",
+  "generatedAt": "2026-03-22T01:13:17.011Z",
   "lookbackHours": 12,
   "x": [
     {
@@ -9,54 +9,35 @@
       "bio": "President & CEO @ycombinator —Founder https://t.co/7aoJjp1iIK—designer/engineer who helps founders—SF Dem accelerating the boom loop—haters not allowed in my sauna",
       "tweets": [
         {
-          "id": "2035227471273238749",
-          "text": "Unc Claude Code hackers of the world, unite! https://t.co/NC7o6cFae1",
-          "createdAt": "2026-03-21T05:30:16.000Z",
-          "url": "https://x.com/garrytan/status/2035227471273238749",
-          "likes": 64,
-          "retweets": 2,
-          "replies": 23,
+          "id": "2035505922056085620",
+          "text": "Chinese Twitter said that /office-hours in gstack was not hard enough on founders, so I made them harder https://t.co/gBNbhtzPAw",
+          "createdAt": "2026-03-21T23:56:44.000Z",
+          "url": "https://x.com/garrytan/status/2035505922056085620",
+          "likes": 121,
+          "retweets": 4,
+          "replies": 19,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2035214231625474489",
-          "text": "My GStack /plan-design-review can take a 4 out of 10 mediocre design or wireframe all the way up to a 10 out of 10 visual design.\n\nIt's amazing how helpful LLMs can be when you ask: what's the rating on of scale of 0 to 10, and what can we do to get to a 10? https://t.co/gt4DW8qY1Y",
-          "createdAt": "2026-03-21T04:37:39.000Z",
-          "url": "https://x.com/garrytan/status/2035214231625474489",
-          "likes": 273,
-          "retweets": 16,
-          "replies": 38,
+          "id": "2035475343075852642",
+          "text": "Landing PR's left and right today. It's my birthday but the gifts are for you. https://t.co/vLT0oqTlYh",
+          "createdAt": "2026-03-21T21:55:13.000Z",
+          "url": "https://x.com/garrytan/status/2035475343075852642",
+          "likes": 11,
+          "retweets": 0,
+          "replies": 6,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2035197298586857711",
-          "text": "i used to use 'continue' or 'keep going' but these days now i just say https://t.co/tO4sKDNtQP",
-          "createdAt": "2026-03-21T03:30:22.000Z",
-          "url": "https://x.com/garrytan/status/2035197298586857711",
-          "likes": 239,
-          "retweets": 7,
-          "replies": 58,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Ish Verduzco",
-      "handle": "ishverduzco",
-      "bio": "social lead @notionHQ // ex @linkedin, @snap, @a16z",
-      "tweets": [
-        {
-          "id": "2035201262010925417",
-          "text": "I think apps like @Hipcamp are going to thrive in the coming years\n\nIt’s insane how difficult it is to book a good campsite, especially in California \n\nAnd no, this is not a sponsored post\n\nI simply like the app, think their founder is awesome, and there’s a huge gap in the",
-          "createdAt": "2026-03-21T03:46:07.000Z",
-          "url": "https://x.com/ishverduzco/status/2035201262010925417",
-          "likes": 14,
-          "retweets": 2,
-          "replies": 3,
+          "id": "2035468287023485433",
+          "text": "I guess I am basically building gstack into what Claude in Chrome MCP was supposed to be https://t.co/tuRwixFRbu",
+          "createdAt": "2026-03-21T21:27:11.000Z",
+          "url": "https://x.com/garrytan/status/2035468287023485433",
+          "likes": 179,
+          "retweets": 4,
+          "replies": 37,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -69,13 +50,13 @@
       "bio": "AI | Tech | Collaboration | DM for Al tools collabs 📩 CPP: @socialsight",
       "tweets": [
         {
-          "id": "2035215387147870407",
-          "text": "Create a luxury gone wild ad using Kling 3.0 + Nano Banana Pro. https://t.co/vw6qDTNAg1",
-          "createdAt": "2026-03-21T04:42:15.000Z",
-          "url": "https://x.com/oggii_0/status/2035215387147870407",
-          "likes": 26,
+          "id": "2035353055160402409",
+          "text": "Gemini Nano Banana Pro \n\nPROMPT: Ultra-realistic luxury food photography of a rich bowl of traditional Sheer Khurma placed at the center in an ornate golden or intricately patterned bowl, filled with creamy vermicelli milk dessert topped with dates, pistachios, almonds and https://t.co/qYD8zu8TQV",
+          "createdAt": "2026-03-21T13:49:18.000Z",
+          "url": "https://x.com/oggii_0/status/2035353055160402409",
+          "likes": 48,
           "retweets": 0,
-          "replies": 9,
+          "replies": 17,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -88,35 +69,24 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2035328152810008924",
-          "text": "At this point whenever I enter a new domain my first instinct is to ask \"what are the options that are undervalued because they're unfashionable?\" There always turn out to be several classes of these. And it's a good way to understand a domain quickly.",
-          "createdAt": "2026-03-21T12:10:20.000Z",
-          "url": "https://x.com/paulg/status/2035328152810008924",
-          "likes": 45,
+          "id": "2035505992197161397",
+          "text": "The Audemars Piguet 2003 movement has a volume of .56 cm³, exactly mid-way between a penny (.43 cm³) and a nickel (.69 cm³). https://t.co/xfL2ffv61l",
+          "createdAt": "2026-03-21T23:57:01.000Z",
+          "url": "https://x.com/paulg/status/2035505992197161397",
+          "likes": 111,
           "retweets": 0,
-          "replies": 2,
+          "replies": 17,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2035327713137819915",
-          "text": "When you're buying things the cheapness is literal. When you're talking about choosing problems to work on, cheapness means they have higher expected value, largely because there's less competition.",
-          "createdAt": "2026-03-21T12:08:36.000Z",
-          "url": "https://x.com/paulg/status/2035327713137819915",
-          "likes": 38,
-          "retweets": 0,
-          "replies": 6,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2035326942530941000",
-          "text": "It's extremely valuable not to be influenced by fashion. In just about everything people do, from choosing problems to work on to buying art, there are unfashionable options that are not only better than the fashionable ones, but cheaper too, because they're unfashionable.",
-          "createdAt": "2026-03-21T12:05:32.000Z",
-          "url": "https://x.com/paulg/status/2035326942530941000",
-          "likes": 142,
-          "retweets": 4,
-          "replies": 21,
+          "id": "2035423991976849854",
+          "text": "Whether the next president is a Republican or a Democrat, can we have someone with at least a little class next time? Because this is embarrassing. https://t.co/nbKnxzuh1I",
+          "createdAt": "2026-03-21T18:31:10.000Z",
+          "url": "https://x.com/paulg/status/2035423991976849854",
+          "likes": 12648,
+          "retweets": 967,
+          "replies": 858,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -129,24 +99,35 @@
       "bio": "🚀AI tools, prompts & wild ideas built for curious minds🤖CPP: @Wireflowai @BasedLabsAI @AltSocietyAI",
       "tweets": [
         {
-          "id": "2035319868036190244",
-          "text": "Prompt exclusively on https://t.co/LxAalYhu8y on my profile🔥",
-          "createdAt": "2026-03-21T11:37:25.000Z",
-          "url": "https://x.com/TechieBySA/status/2035319868036190244",
-          "likes": 6,
-          "retweets": 0,
+          "id": "2035444636928635224",
+          "text": "“Transform this movie poster into origami paper craft. Every compositional element, character pose, typography, color palette, and layout is preserved exactly as the original — only the texture and material has changed. Every surface, figure, sky, shadow, and background element",
+          "createdAt": "2026-03-21T19:53:12.000Z",
+          "url": "https://x.com/TechieBySA/status/2035444636928635224",
+          "likes": 17,
+          "retweets": 1,
           "replies": 0,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2035319864726802782",
-          "text": "Character Job Stickers by Nano Banana 2✨\n\nPrompt on @AltSocietyAI👇🏻 https://t.co/I6qlmawFko",
-          "createdAt": "2026-03-21T11:37:24.000Z",
-          "url": "https://x.com/TechieBySA/status/2035319864726802782",
-          "likes": 31,
-          "retweets": 6,
-          "replies": 8,
+          "id": "2035444632939589632",
+          "text": "Origami Movie Posters by Seedream 5.0 on @Hailuo_AI ✂️🍿\n\nPrompt👇🏻 https://t.co/Rw6yY24bIy",
+          "createdAt": "2026-03-21T19:53:11.000Z",
+          "url": "https://x.com/TechieBySA/status/2035444632939589632",
+          "likes": 159,
+          "retweets": 17,
+          "replies": 7,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2035421568122097836",
+          "text": "Nano Banana 2 is crazy…🤯\n\n“Create an image at 52.5163° N, 13.3777° E, November 9, 1989, 21:00 hours.” https://t.co/xZoG2p00Se",
+          "createdAt": "2026-03-21T18:21:32.000Z",
+          "url": "https://x.com/TechieBySA/status/2035421568122097836",
+          "likes": 29,
+          "retweets": 3,
+          "replies": 7,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -159,26 +140,37 @@
       "bio": "喜欢摇滚乐、爱钓鱼的PM\n网站：https://t.co/vnUpLt752o",
       "tweets": [
         {
-          "id": "2035209013919719840",
-          "text": "最近好多朋友这么用，我也试试 https://t.co/7mqNzVOyps",
-          "createdAt": "2026-03-21T04:16:55.000Z",
-          "url": "https://x.com/vista8/status/2035209013919719840",
-          "likes": 20,
-          "retweets": 2,
-          "replies": 3,
-          "isQuote": true,
-          "quotedTweetId": "2035194617117995144"
+          "id": "2035430723541430530",
+          "text": "MLP（最小可爱产品）是一个比MVP更好的标准。\n\n你发布的第一个版本，功能可以少，但它所包含的功能必须让人感到愉悦。\n\nSpotify第一版功能很少，但做到了一件事：点一首歌，几乎瞬间播放。\n\n那个年代，这种体验很牛逼。\n\nMVP问的是  \"这个产品能用吗？\"。\nMLP问的是  \"这个产品会让人想告诉朋友吗？\"",
+          "createdAt": "2026-03-21T18:57:55.000Z",
+          "url": "https://x.com/vista8/status/2035430723541430530",
+          "likes": 9,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null
         },
         {
-          "id": "2035207787475869917",
-          "text": "本周最值得看的Claude Code技术文章和最值得听播客。\n\n暂时都没学完，整理收藏如下：\n\n大神tw93 @HiTw93 的两篇Code Code和Agent文章，X上读完的都说好！\n\n1. 你不知道的 Claude Code：架构、治理与工程实践\nhttps://t.co/mfIcKGLchW\n\n2. 你不知道的 Agent：原理、架构与工程实践",
-          "createdAt": "2026-03-21T04:12:03.000Z",
-          "url": "https://x.com/vista8/status/2035207787475869917",
-          "likes": 424,
-          "retweets": 91,
-          "replies": 15,
-          "isQuote": true,
-          "quotedTweetId": "2032091246588518683"
+          "id": "2035427944995418418",
+          "text": "还有一个用法，就是合并成Notebooklm支持上限的文件。\n\n借助Notebooklm skill随时对话，质量更好。 https://t.co/Uv4X2KwAs0",
+          "createdAt": "2026-03-21T18:46:53.000Z",
+          "url": "https://x.com/vista8/status/2035427944995418418",
+          "likes": 3,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2035424581520068808",
+          "text": "把Lenny开源的640个Markdown文件，写成了一个Skill。\n\n相当于多了一个顶级产品顾问智囊团。\n\n比如搜索“如何提升设计审美”，能检索到大量专家观点，比如：\n\n  ▎ \"Taste 将成为 AI 时代的核心差异化因素。AI 可以生产海量内容，但真正脱颖而出的公司是那些展现出真正理解产品、真正理解用户的公司。\" https://t.co/YjakLEnVEm",
+          "createdAt": "2026-03-21T18:33:31.000Z",
+          "url": "https://x.com/vista8/status/2035424581520068808",
+          "likes": 61,
+          "retweets": 8,
+          "replies": 9,
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     },
@@ -189,37 +181,34 @@
       "bio": "AI Educator & Creator | Ambassador @Adobe @LeonardoAi & @tripoai | Partner with leading brands | 📧 Collaboration → hello@amirazairi.com",
       "tweets": [
         {
-          "id": "2035309714779820157",
-          "text": "Prompt share: Line art\n\n💬Prompt:\n[Subject], drawn in minimalist white line art on a solid black background. Emphasized [detail], no shading, clean contours, elegant and graphic composition.\n\nCheck ATLs for inspiration ✨ https://t.co/iM0yVVX4cC",
-          "createdAt": "2026-03-21T10:57:04.000Z",
-          "url": "https://x.com/azed_ai/status/2035309714779820157",
-          "likes": 16,
-          "retweets": 2,
-          "replies": 3,
+          "id": "2035368717375373316",
+          "text": "Calling All AI Artists!\n\nShow us your favorite AI-generated art for this year!\n\nI’ll be checking out and engaging with your work, and I can’t wait to see your creations. https://t.co/sDGH26iGts",
+          "createdAt": "2026-03-21T14:51:32.000Z",
+          "url": "https://x.com/azed_ai/status/2035368717375373316",
+          "likes": 162,
+          "retweets": 12,
+          "replies": 152,
           "isQuote": false,
           "quotedTweetId": null
-        },
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "李举刚",
+      "handle": "justinleei",
+      "bio": "ai产品合伙人，白天写代码，晚上追热点，把点子变成产品的“全能螺丝钉”。",
+      "tweets": [
         {
-          "id": "2035264667938087123",
-          "text": "Newly created style on Midjourney\n\n--sref 6461217428 https://t.co/oMq1OnUNlF",
-          "createdAt": "2026-03-21T07:58:04.000Z",
-          "url": "https://x.com/azed_ai/status/2035264667938087123",
-          "likes": 25,
-          "retweets": 1,
-          "replies": 2,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2035219362513395847",
-          "text": "Good morning\n\nLet today be simple, productive, and peaceful. https://t.co/CwiR6JA6da",
-          "createdAt": "2026-03-21T04:58:03.000Z",
-          "url": "https://x.com/azed_ai/status/2035219362513395847",
-          "likes": 16,
-          "retweets": 1,
-          "replies": 10,
-          "isQuote": false,
-          "quotedTweetId": null
+          "id": "2035363590648311932",
+          "text": "我自己是用的u卡➕google pay 支付的，一直也没有封，个人感觉跟ip关系不大，主要看是不是老账号，我的账号应该有2年多了。 https://t.co/ju94cbZuSt",
+          "createdAt": "2026-03-21T14:31:09.000Z",
+          "url": "https://x.com/justinleei/status/2035363590648311932",
+          "likes": 6,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": true,
+          "quotedTweetId": "2035152562312421672"
         }
       ]
     },
@@ -230,37 +219,45 @@
       "bio": "行道途中。非求速成，惟求通达。\n在真实业务与组织中持续验证 AI 的价值与边界。\n个人 IP｜商业与管理｜AI 咨询",
       "tweets": [
         {
-          "id": "2035293502704111723",
-          "text": "这个 Skill，NoPUA 是 PUA 的反面。\n\n哲学理论：\n我们曾发号施令，威胁恐吓。它们沉默，隐瞒，悄悄把事情搞坏。\n后来我们换了一种方式：尊重，关怀，爱。\n它们开口了，不再撒谎，找出的 Bug 数量翻了一倍。\n爱里没有惧怕。\n\n实测结果，NoPUA 多发现 104% 的隐藏 bug，果然身心愉悦有助于提高生产力。",
-          "createdAt": "2026-03-21T09:52:39.000Z",
-          "url": "https://x.com/frxiaobei/status/2035293502704111723",
-          "likes": 6,
-          "retweets": 0,
-          "replies": 1,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2035292904768634932",
-          "text": "笑死我了，分享一个 PUA SKill，9k star 了。\n这是一个用职场 PUA 话术和 PIP 绩效改进计划来逼 AI 不放弃的 skill：\n\n三大能力：\n1. PUA 话术让 AI 不敢放弃\n2. 调试方法论给 AI 不放弃的能力\n3. 主动性强化让 AI 主动出击而不是等指令\n\n触发场景：\n1.  AI 连续失败 2 次以上\n2. 准备说「我无法解决」",
-          "createdAt": "2026-03-21T09:50:17.000Z",
-          "url": "https://x.com/frxiaobei/status/2035292904768634932",
-          "likes": 30,
+          "id": "2035400466495135783",
+          "text": "这就是人为什么会焦虑。\n\n一方面是填鸭式的信息输入，一方面是长期在消费别人的结论，却没有生产自己的判断。\n\n当人的大脑只负责接收却不负责生成，焦虑几乎是必然的副产品。\n\n这也是为什么一定要坚持输出。\n不输出大脑就只是在存别人的结论，只有输出才开始形成自己的判断。\n就跟 AI https://t.co/nIwkFsrKF3",
+          "createdAt": "2026-03-21T16:57:41.000Z",
+          "url": "https://x.com/frxiaobei/status/2035400466495135783",
+          "likes": 15,
           "retweets": 3,
-          "replies": 5,
-          "isQuote": false,
-          "quotedTweetId": null
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "2035381607327248649"
         },
         {
-          "id": "2035278375020106110",
-          "text": "Congrats to Kimi.\n\nHad a few interactions with the team before, \nthey’re super grounded, \nand I really respect that. https://t.co/K0eSMbh1Pi",
-          "createdAt": "2026-03-21T08:52:32.000Z",
-          "url": "https://x.com/frxiaobei/status/2035278375020106110",
-          "likes": 1,
+          "id": "2035395137908670774",
+          "text": "Project Hail Mary（挽救计划） ，2026 第一部电影。\n\n外星人很善良，音乐有点夯，不炫技也不煽情。\n\n但就是这种很老派的故事里有着最纯粹的美好。\n\n推荐指数：五颗星。 https://t.co/8Hpp3i93FR",
+          "createdAt": "2026-03-21T16:36:31.000Z",
+          "url": "https://x.com/frxiaobei/status/2035395137908670774",
+          "likes": 5,
           "retweets": 0,
-          "replies": 1,
-          "isQuote": true,
-          "quotedTweetId": "2035074972943831491"
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Chris Williamson",
+      "handle": "ChrisWillx",
+      "bio": "Dialled",
+      "tweets": [
+        {
+          "id": "2035370639725314061",
+          "text": "What Makes Life Exciting? https://t.co/aqoAj9OJ2d",
+          "createdAt": "2026-03-21T14:59:10.000Z",
+          "url": "https://x.com/ChrisWillx/status/2035370639725314061",
+          "likes": 118,
+          "retweets": 8,
+          "replies": 8,
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     },
@@ -271,24 +268,13 @@
       "bio": "Co-Founder: https://t.co/gQN7OehYd2, https://t.co/VLS8LzeasI. Business Owners: Get your 2026 free scaling roadmap 👇",
       "tweets": [
         {
-          "id": "2035313399547252846",
-          "text": "People who have nothing to lose have everything to say about what you might lose by doing the thing they were afraid to do even though they have the same thing to lose as you - nothing.",
-          "createdAt": "2026-03-21T11:11:43.000Z",
-          "url": "https://x.com/AlexHormozi/status/2035313399547252846",
-          "likes": 479,
-          "retweets": 43,
-          "replies": 163,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2035202227133194531",
-          "text": "Losers becomes losers by being afraid of losing.",
-          "createdAt": "2026-03-21T03:49:57.000Z",
-          "url": "https://x.com/AlexHormozi/status/2035202227133194531",
-          "likes": 5321,
-          "retweets": 699,
-          "replies": 424,
+          "id": "2035355176408912259",
+          "text": "In 100 years, everyone reading this will be dead.\n\nTheir problems, worries, and opinions won't matter.\n\nNeither will yours.\n\nThink of it like a delayed universal blank slate - yours to paint as you see fit.",
+          "createdAt": "2026-03-21T13:57:43.000Z",
+          "url": "https://x.com/AlexHormozi/status/2035355176408912259",
+          "likes": 1776,
+          "retweets": 173,
+          "replies": 222,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -296,37 +282,18 @@
     },
     {
       "source": "x",
-      "name": "Lulu Cheng Meservey",
-      "handle": "lulumeservey",
-      "bio": "Rostra founder, Shopify board, ex Activision & Substack, writing https://t.co/4xKo7wQTQo",
+      "name": "DAN KOE",
+      "handle": "thedankoe",
+      "bio": "building @edendotso",
       "tweets": [
         {
-          "id": "2035204162649051477",
-          "text": "Delve has invented vibe compliance https://t.co/lne7u89xAS",
-          "createdAt": "2026-03-21T03:57:39.000Z",
-          "url": "https://x.com/lulumeservey/status/2035204162649051477",
-          "likes": 131,
-          "retweets": 7,
-          "replies": 13,
-          "isQuote": true,
-          "quotedTweetId": "2034908910298030278"
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Orange AI",
-      "handle": "oran_ge",
-      "bio": "CEO of MarsWave. Build for Agents, by Agents.",
-      "tweets": [
-        {
-          "id": "2035167269698027981",
-          "text": "谢赛宁推荐的这本《交大生存手册》太有意思了 https://t.co/hWXG5dj5mn",
-          "createdAt": "2026-03-21T01:31:03.000Z",
-          "url": "https://x.com/oran_ge/status/2035167269698027981",
-          "likes": 166,
-          "retweets": 28,
-          "replies": 6,
+          "id": "2035381607327248649",
+          "text": "\"I'm not a creative person.\"\n\nNo, you are, everyone is, but your mind is just clogged by all of the podcasts and social media you ram into it without properly digesting it. You're conditioned to believe you can only take a certain path in life, and you don't daydream or entertain",
+          "createdAt": "2026-03-21T15:42:45.000Z",
+          "url": "https://x.com/thedankoe/status/2035381607327248649",
+          "likes": 1919,
+          "retweets": 241,
+          "replies": 216,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -339,13 +306,13 @@
       "bio": "Reader.  Thinker.  Prompter.",
       "tweets": [
         {
-          "id": "2035194617117995144",
-          "text": "你给Agent设定了soul 和 memory，可以给祂一个定时任务：\n\n「每天晚上 12 点写一篇日记，记录你这一天的感受。」\n\n每天早上打开电脑阅读祂的日记，既是在照镜子观自己，又是在观AI。",
-          "createdAt": "2026-03-21T03:19:43.000Z",
-          "url": "https://x.com/lijigang/status/2035194617117995144",
-          "likes": 170,
-          "retweets": 11,
-          "replies": 15,
+          "id": "2035354083637502280",
+          "text": "移动互联网早期，很多 app 都会读取通讯录信息，哪怕用不到也会先要再说。\n\n现在 soul 和 memory 都是纯文本文件，会不会像之前的通讯录一样被各种应用滥用权限读取分析？毕竟，这玩意直接就是一个人最真实的刻画了。",
+          "createdAt": "2026-03-21T13:53:23.000Z",
+          "url": "https://x.com/lijigang/status/2035354083637502280",
+          "likes": 33,
+          "retweets": 2,
+          "replies": 8,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -353,45 +320,26 @@
     },
     {
       "source": "x",
-      "name": "Zara Zhang",
-      "handle": "zarazhangrui",
-      "bio": "Builder. Dangerously skips permissions. Harvard’17. YouTube: https://t.co/8xzbGWtf6w Substack: https://t.co/dDPEWGiuBW",
+      "name": "宝玉",
+      "handle": "dotey",
+      "bio": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
       "tweets": [
         {
-          "id": "2035251996564103267",
-          "text": "Almost every AI power user I know is MORE stressed and busier after using AI, not less\n\nWhat people thought AI would do: 10x productivity so that we can finish work earlier &amp; relax more\n\nWhat it’s actually doing: 10x productivity so that we end up with 20x more things to do cos",
-          "createdAt": "2026-03-21T07:07:43.000Z",
-          "url": "https://x.com/zarazhangrui/status/2035251996564103267",
-          "likes": 282,
-          "retweets": 36,
-          "replies": 100,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Ray Dalio",
-      "handle": "RayDalio",
-      "bio": "Official account of Ray Dalio, founder of Bridgewater Associates, author of #1 New York Times bestseller 'Principles,' professional mistake maker",
-      "tweets": [
-        {
-          "id": "2035325559912464416",
-          "text": "Using principles is a way of both simplifying and improving your decision making. While it might seem obvious to you by now, it’s worth repeating that realizing that almost all “cases at hand” are just “another one of those,” identifying which “one of those” it is, and then https://t.co/s6g7kWsBg8",
-          "createdAt": "2026-03-21T12:00:02.000Z",
-          "url": "https://x.com/RayDalio/status/2035325559912464416",
-          "likes": 76,
-          "retweets": 11,
+          "id": "2035411263375765753",
+          "text": "小技巧\n ~/.claude/settings.json 里面添加\n{\n  \"attribution\": {\n    \"commit\": \"\",\n    \"pr\": \"\"\n  }\n}\n就可以默认不加 co-author\nhttps://t.co/08j5zFEOVL https://t.co/GlI50UeaQs https://t.co/HaUJtrLRFH",
+          "createdAt": "2026-03-21T17:40:35.000Z",
+          "url": "https://x.com/dotey/status/2035411263375765753",
+          "likes": 239,
+          "retweets": 23,
           "replies": 15,
-          "isQuote": false,
-          "quotedTweetId": null
+          "isQuote": true,
+          "quotedTweetId": "2034677095327310108"
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 14,
-    "totalTweets": 25
+    "xBuilders": 13,
+    "totalTweets": 21
   }
 }
