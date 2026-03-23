@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-23T01:14:09.507Z",
+  "generatedAt": "2026-03-23T01:49:06.122Z",
   "lookbackHours": 12,
   "x": [
     {
@@ -9,56 +9,26 @@
       "bio": "President & CEO @ycombinator —Founder https://t.co/7aoJjp1iIK—designer/engineer who helps founders—SF Dem accelerating the boom loop—haters not allowed in my sauna",
       "tweets": [
         {
-          "id": "2035859296492351879",
-          "text": "This is one of the weird paradoxes of building things today. You have to build things of consequence. \n\nThe scale is different though. A 6-figures SWE wouldn't even work for you if it were some speculative thing. But for 5 figures in tokens, you can find out yourself, just you.",
-          "createdAt": "2026-03-22T23:20:55.000Z",
-          "url": "https://x.com/garrytan/status/2035859296492351879",
-          "likes": 22,
-          "retweets": 0,
-          "replies": 3,
-          "isQuote": false,
-          "quotedTweetId": null
+          "id": "2035890811775426660",
+          "text": "Not everyone gets the special message. Only if you have proven your self worthy through valiant and brave sparring with /office-hours GStack skill shall you be granted such message by the AGI https://t.co/5bJE46Dksr",
+          "createdAt": "2026-03-23T01:26:09.000Z",
+          "url": "https://x.com/garrytan/status/2035890811775426660",
+          "likes": 27,
+          "retweets": 1,
+          "replies": 8,
+          "isQuote": true,
+          "quotedTweetId": "2035865636304474345"
         },
         {
-          "id": "2035859071740641334",
-          "text": "Oh this is probably an under-rated part of what is happening. You have to let the tokens rip. \n\nThe magic happens because you use the frontier model and you have to be doing things that have economic value such that you can look back and say \"It Does X\" and it's worth it to you https://t.co/pndXprXaTT",
-          "createdAt": "2026-03-22T23:20:01.000Z",
-          "url": "https://x.com/garrytan/status/2035859071740641334",
-          "likes": 48,
-          "retweets": 4,
-          "replies": 11,
-          "isQuote": true,
-          "quotedTweetId": "2035704348332925288"
-        },
-        {
-          "id": "2035858449473671406",
-          "text": "Thanks Gus https://t.co/LYeOfaF61i https://t.co/1ypXfhUa2O",
-          "createdAt": "2026-03-22T23:17:33.000Z",
-          "url": "https://x.com/garrytan/status/2035858449473671406",
-          "likes": 41,
-          "retweets": 5,
-          "replies": 5,
-          "isQuote": true,
-          "quotedTweetId": "2035841289602904360"
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Oogie",
-      "handle": "oggii_0",
-      "bio": "AI | Tech | Collaboration | DM for Al tools collabs 📩 CPP: @socialsight",
-      "tweets": [
-        {
-          "id": "2035762532607201695",
-          "text": "We don’t have a thinking problem we have a typing bottleneck.\n\nTypeless might be the unlock. https://t.co/UqYlsYxUg4",
-          "createdAt": "2026-03-22T16:56:25.000Z",
-          "url": "https://x.com/oggii_0/status/2035762532607201695",
+          "id": "2035890236312699382",
+          "text": "Many such cases https://t.co/dHjf4Qiowa",
+          "createdAt": "2026-03-23T01:23:52.000Z",
+          "url": "https://x.com/garrytan/status/2035890236312699382",
           "likes": 8,
-          "retweets": 0,
-          "replies": 2,
+          "retweets": 1,
+          "replies": 0,
           "isQuote": true,
-          "quotedTweetId": "2035735986483982680"
+          "quotedTweetId": "2035887815938936896"
         }
       ]
     },
@@ -69,35 +39,13 @@
       "bio": "🚀AI tools, prompts & wild ideas built for curious minds🤖CPP: @Wireflowai @BasedLabsAI @AltSocietyAI",
       "tweets": [
         {
-          "id": "2035815995131228212",
-          "text": "“Create a stylized miniature model of [CHARACTER] shaped entirely from soft polymer clay. The figure has rounded, childlike anatomy — large head, small body, and simplified details that feel friendly and handcrafted. Its outfit and accessories match [CHARACTERS]’ iconic look,",
-          "createdAt": "2026-03-22T20:28:51.000Z",
-          "url": "https://x.com/TechieBySA/status/2035815995131228212",
-          "likes": 7,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2035815991314206906",
-          "text": "Clay Characters by Nano Banana 2 on @SocialSight ✨🍌\n\nPrompt👇🏻 https://t.co/gQu6N4AJOn https://t.co/vgAhdNe8P1",
-          "createdAt": "2026-03-22T20:28:50.000Z",
-          "url": "https://x.com/TechieBySA/status/2035815991314206906",
-          "likes": 45,
-          "retweets": 6,
-          "replies": 3,
-          "isQuote": true,
-          "quotedTweetId": "2035685458357727507"
-        },
-        {
-          "id": "2035781024844534021",
-          "text": "Inspired by mertzabun ai on Instagram🔥\n\nSimply replace [SHOW/MOVIE]:👇🏻\n\n“Pixar/Disney 3D CGI animated movie poster. Soft volumetric lighting, smooth subsurface skin shading, expressive Pixar-style faces, polished studio render quality. Vertical poster, 3:4 ratio.\nShow/Movie:",
-          "createdAt": "2026-03-22T18:09:53.000Z",
-          "url": "https://x.com/TechieBySA/status/2035781024844534021",
-          "likes": 12,
-          "retweets": 0,
-          "replies": 0,
+          "id": "2035781019404472471",
+          "text": "TV Trios by Nano Banana 2 🎬✨\n\nPrompt👇🏻 https://t.co/pQFhM6V4My",
+          "createdAt": "2026-03-22T18:09:52.000Z",
+          "url": "https://x.com/TechieBySA/status/2035781019404472471",
+          "likes": 74,
+          "retweets": 13,
+          "replies": 14,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -105,78 +53,18 @@
     },
     {
       "source": "x",
-      "name": "向阳乔木",
-      "handle": "vista8",
-      "bio": "喜欢摇滚乐、爱钓鱼的PM\n网站：https://t.co/vnUpLt752o",
+      "name": "凡人小北",
+      "handle": "frxiaobei",
+      "bio": "行道途中。非求速成，惟求通达。\n在真实业务与组织中持续验证 AI 的价值与边界。\n个人 IP｜商业与管理｜AI 咨询",
       "tweets": [
         {
-          "id": "2035853016541344231",
-          "text": "OpenClaw 和Claude 产品发布竞争时间线：\n\n1 月初：OpenClaw（当时叫 Clawdbot）爆火，Mac Mini 卖断货。\n\n1 月 12 日：Anthropic 悄悄发布了 Cowork 研究预览版：一个桌面沙盒，Claude 可以在里面执行任务、管理文件、跟你协作。\n\n1 月底：Anthropic 发了商标投诉。项目改名叫 OpenClaw，热度更高了。",
-          "createdAt": "2026-03-22T22:55:58.000Z",
-          "url": "https://x.com/vista8/status/2035853016541344231",
-          "likes": 22,
-          "retweets": 0,
-          "replies": 6,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2035756241285480690",
-          "text": "终于1.5倍速听完了，原始有7个小时，很棒的访谈。\n\n印象最深刻的是何恺明被提及n多次。\n\n还有这两个顶级AI研究员的娱乐也是打魔兽世界和炉石传说 ，哈哈哈！ https://t.co/G0vdwiuFJ5",
-          "createdAt": "2026-03-22T16:31:25.000Z",
-          "url": "https://x.com/vista8/status/2035756241285480690",
-          "likes": 28,
-          "retweets": 3,
-          "replies": 5,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Amira Zairi",
-      "handle": "azed_ai",
-      "bio": "AI Educator & Creator | Ambassador @Adobe @LeonardoAi & @tripoai | Partner with leading brands | 📧 Collaboration → hello@amirazairi.com",
-      "tweets": [
-        {
-          "id": "2035770413167374814",
-          "text": "--sref 7809680056 https://t.co/qJYrfpg15Y https://t.co/xXPWVoEohk",
-          "createdAt": "2026-03-22T17:27:43.000Z",
-          "url": "https://x.com/azed_ai/status/2035770413167374814",
-          "likes": 30,
-          "retweets": 0,
-          "replies": 3,
-          "isQuote": true,
-          "quotedTweetId": "2035627603768590514"
-        },
-        {
-          "id": "2035759261985460422",
-          "text": "Looking for new srefs using V8 😍 https://t.co/kfcS5pZpH5",
-          "createdAt": "2026-03-22T16:43:25.000Z",
-          "url": "https://x.com/azed_ai/status/2035759261985460422",
-          "likes": 33,
+          "id": "2035890877705699379",
+          "text": "微信 ClawBot 的入口其实不一定要是龙虾。\n\n本质是 Agent + IM 的协议层已经打通了。\n你在微信发一句话，背后有个 Agent 去干活。\n\n那这个入口可以是龙虾、豆包、千问，也可以支付、搜索、电商、甚至你自己公司的服务，其实都无所谓。\n\n名字不重要，壳也不重要。",
+          "createdAt": "2026-03-23T01:26:24.000Z",
+          "url": "https://x.com/frxiaobei/status/2035890877705699379",
+          "likes": 2,
           "retweets": 1,
-          "replies": 6,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Chris Williamson",
-      "handle": "ChrisWillx",
-      "bio": "Dialled",
-      "tweets": [
-        {
-          "id": "2035740091549671814",
-          "text": "True Change Is A Miracle https://t.co/aj4ZSbsQ5H",
-          "createdAt": "2026-03-22T15:27:14.000Z",
-          "url": "https://x.com/ChrisWillx/status/2035740091549671814",
-          "likes": 128,
-          "retweets": 7,
-          "replies": 5,
+          "replies": 1,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -189,35 +77,24 @@
       "bio": "Co-Founder: https://t.co/gQN7OehYd2, https://t.co/VLS8LzeasI. Business Owners: Get your 2026 free scaling roadmap 👇",
       "tweets": [
         {
-          "id": "2035857770692608137",
-          "text": "If the same person comes to you with problems everyday, and they're not your spouse or child, probably worth removing them from your life until they can come to you with solutions.",
-          "createdAt": "2026-03-22T23:14:51.000Z",
-          "url": "https://x.com/AlexHormozi/status/2035857770692608137",
-          "likes": 670,
-          "retweets": 57,
-          "replies": 102,
+          "id": "2035745482337845266",
+          "text": "Levels of influence:\n1) Tell them what to do with authority\n2) Incentivize them with reward\n3) Sell them on it with persuasion\n4) Get them to think it was their idea\nIf you want buy in, don't just sell, seed. We defend what we help create.",
+          "createdAt": "2026-03-22T15:48:39.000Z",
+          "url": "https://x.com/AlexHormozi/status/2035745482337845266",
+          "likes": 1026,
+          "retweets": 85,
+          "replies": 124,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2035814814497591469",
-          "text": "When you die, all your problems become other people's problems.\nBut when other people die, most of their problems die with them\nWhich means most of the things you call problems never really mattered to begin with\nIf you can't pass them on, they're probably not worth holding onto.",
-          "createdAt": "2026-03-22T20:24:10.000Z",
-          "url": "https://x.com/AlexHormozi/status/2035814814497591469",
-          "likes": 731,
-          "retweets": 59,
-          "replies": 110,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2035766997791985681",
-          "text": "If your friends aren't happy about your success, they're not your friends.",
-          "createdAt": "2026-03-22T17:14:09.000Z",
-          "url": "https://x.com/AlexHormozi/status/2035766997791985681",
-          "likes": 1858,
-          "retweets": 169,
-          "replies": 273,
+          "id": "2035722351011328051",
+          "text": "You can't both be in control of your life and also blame other people for it. Taking responsibility is about power not blame. You do it for yourself, not because you think the other person deserves forgiveness.",
+          "createdAt": "2026-03-22T14:16:45.000Z",
+          "url": "https://x.com/AlexHormozi/status/2035722351011328051",
+          "likes": 1022,
+          "retweets": 82,
+          "replies": 203,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -230,122 +107,32 @@
       "bio": "Professor of Neurobiology and Ophthalmology at Stanford Medicine • Host of Huberman Lab • Focused on science and health research and public education",
       "tweets": [
         {
-          "id": "2035878697715245317",
-          "text": "I was going to send this to @Brady_H but I think many people will enjoy this biography of legendary Oregon track and field coach and Nike cofounder Bill Bowerman. Unique teaching tactics (that would never ever fly today!) https://t.co/XbCUh5jESl",
-          "createdAt": "2026-03-23T00:38:00.000Z",
-          "url": "https://x.com/hubermanlab/status/2035878697715245317",
-          "likes": 39,
-          "retweets": 4,
-          "replies": 7,
+          "id": "2035874582167687576",
+          "text": "https://t.co/D3H1ogbaYV",
+          "createdAt": "2026-03-23T00:21:39.000Z",
+          "url": "https://x.com/hubermanlab/status/2035874582167687576",
+          "likes": 10,
+          "retweets": 1,
+          "replies": 1,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2035876214284652716",
-          "text": "In all seriousness, the sunlight piece is probably the most underestimated in terms of its impact on health. It’s the easiest no matter where you live. It costs nothing. But people tend to resist it because it requires you meet the suns schedule. But oh so worth it.",
-          "createdAt": "2026-03-23T00:28:08.000Z",
-          "url": "https://x.com/hubermanlab/status/2035876214284652716",
-          "likes": 70,
-          "retweets": 4,
-          "replies": 8,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2035875589941596568",
-          "text": "And yes sunlight and sleep and nutrition and quality social connection (per your needs and wants) all vital too. First to say “what about sunlight and sleep etc” wins the “you have too much time on your hands” award and a MRI referral",
-          "createdAt": "2026-03-23T00:25:40.000Z",
-          "url": "https://x.com/hubermanlab/status/2035875589941596568",
-          "likes": 118,
-          "retweets": 5,
-          "replies": 10,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Zara Zhang",
-      "handle": "zarazhangrui",
-      "bio": "Builder. Dangerously skips permissions. Harvard’17. YouTube: https://t.co/8xzbGWtf6w Substack: https://t.co/dDPEWGiuBW",
-      "tweets": [
-        {
-          "id": "2035758067116359902",
-          "text": "https://t.co/JRzfzDanIw",
-          "createdAt": "2026-03-22T16:38:40.000Z",
-          "url": "https://x.com/zarazhangrui/status/2035758067116359902",
-          "likes": 233,
-          "retweets": 11,
+          "id": "2035874561649152458",
+          "text": "“Repeated exercise produces robust physiological benefits &amp; is the leading lifestyle intervention for human health.”\n\n-Kindel et al, Neuron 2026 \n\n= obvious to many now but significant b/c it’s the 1st line of a traditional scientific study. 5 years ago no one would say it.",
+          "createdAt": "2026-03-23T00:21:34.000Z",
+          "url": "https://x.com/hubermanlab/status/2035874561649152458",
+          "likes": 602,
+          "retweets": 67,
           "replies": 36,
           "isQuote": false,
           "quotedTweetId": null
         }
       ]
-    },
-    {
-      "source": "x",
-      "name": "Ray Dalio",
-      "handle": "RayDalio",
-      "bio": "Official account of Ray Dalio, founder of Bridgewater Associates, author of #1 New York Times bestseller 'Principles,' professional mistake maker",
-      "tweets": [
-        {
-          "id": "2035818849015414843",
-          "text": "There is nothing more important than understanding how reality works and how to deal with it. The state of mind you bring to this process makes all the difference. I have found it helpful to think of my life as if it were a game in which each problem I face is a puzzle I need to https://t.co/ec4rgSfI6w",
-          "createdAt": "2026-03-22T20:40:11.000Z",
-          "url": "https://x.com/RayDalio/status/2035818849015414843",
-          "likes": 572,
-          "retweets": 97,
-          "replies": 46,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "宝玉",
-      "handle": "dotey",
-      "bio": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "tweets": [
-        {
-          "id": "2035816571084349902",
-          "text": "CLAUDE_CODE_NEW_INIT=1 claude\n可以体验新版本 /init\n现在中间会有更多互动和选项，不止是帮你生成 CLAUDE MD，还可以帮你的项目量身定制添加 hooks，skills https://t.co/04II8yf5PJ",
-          "createdAt": "2026-03-22T20:31:08.000Z",
-          "url": "https://x.com/dotey/status/2035816571084349902",
-          "likes": 105,
-          "retweets": 6,
-          "replies": 7,
-          "isQuote": true,
-          "quotedTweetId": "2035799806640115806"
-        },
-        {
-          "id": "2035754880275501405",
-          "text": "感谢大家支持，从第一次发布 baoyu-skills ，到现在 2 个多月时间已经 10K+ stars 了。\nhttps://t.co/0Vly8Dcn68 上的数据：\n193.7K total installs，当前最受欢迎的 skill 排名在 170\nhttps://t.co/YZtwkjcgME https://t.co/Vsu6jmHSbX https://t.co/Dpf4lnPvXz",
-          "createdAt": "2026-03-22T16:26:00.000Z",
-          "url": "https://x.com/dotey/status/2035754880275501405",
-          "likes": 477,
-          "retweets": 56,
-          "replies": 28,
-          "isQuote": true,
-          "quotedTweetId": "2011907793520116215"
-        },
-        {
-          "id": "2035749966694465678",
-          "text": "说的没有错的，不过这里重点不是当没当过 Manager，而是同时有架构能力和管理能力，能拆分任务，能管理 Agent。\n\n说实话，很多 manager 技术不咋地，就会向上管理和 PUA，但管 Agent 重要的不是向上管理，也不是 PUA，而是“定义问题”和“知人善用”。 https://t.co/eJ4R1icAjN https://t.co/Kby7Cjj0Cd",
-          "createdAt": "2026-03-22T16:06:29.000Z",
-          "url": "https://x.com/dotey/status/2035749966694465678",
-          "likes": 84,
-          "retweets": 11,
-          "replies": 14,
-          "isQuote": true,
-          "quotedTweetId": "2035711109240438957"
-        }
-      ]
     }
   ],
   "stats": {
-    "xBuilders": 11,
-    "totalTweets": 23
+    "xBuilders": 5,
+    "totalTweets": 8
   }
 }
