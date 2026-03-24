@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-24T01:29:15.845Z",
+  "generatedAt": "2026-03-24T12:44:48.333Z",
   "lookbackHours": 12,
   "x": [
     {
@@ -9,26 +9,37 @@
       "bio": "President & CEO @ycombinator —Founder https://t.co/7aoJjp1iIK—designer/engineer who helps founders—SF Dem accelerating the boom loop—haters not allowed in my sauna",
       "tweets": [
         {
-          "id": "2036093671448400359",
-          "text": "YC is the YC for space tech https://t.co/UE2djBY62C",
-          "createdAt": "2026-03-23T14:52:14.000Z",
-          "url": "https://x.com/garrytan/status/2036093671448400359",
-          "likes": 103,
-          "retweets": 6,
-          "replies": 16,
-          "isQuote": true,
-          "quotedTweetId": "2035908732987888002"
-        },
-        {
-          "id": "2036093322838815186",
-          "text": "A lot of the future is going to look like that. Cheap-looking, low-status, incredibly powerful.\n\nIt’s why people call me cringe. They are being midwits. \n\nLet’s just make useful things for each other!",
-          "createdAt": "2026-03-23T14:50:51.000Z",
-          "url": "https://x.com/garrytan/status/2036093322838815186",
-          "likes": 87,
-          "retweets": 2,
-          "replies": 13,
+          "id": "2036347337975669060",
+          "text": "Also updated better Windows support https://t.co/Ts26Txpjqy",
+          "createdAt": "2026-03-24T07:40:13.000Z",
+          "url": "https://x.com/garrytan/status/2036347337975669060",
+          "likes": 12,
+          "retweets": 1,
+          "replies": 0,
           "isQuote": false,
           "quotedTweetId": null
+        },
+        {
+          "id": "2036347244560130370",
+          "text": "Many such cases https://t.co/p2pPFW4xb3",
+          "createdAt": "2026-03-24T07:39:51.000Z",
+          "url": "https://x.com/garrytan/status/2036347244560130370",
+          "likes": 44,
+          "retweets": 2,
+          "replies": 4,
+          "isQuote": true,
+          "quotedTweetId": "2036339150677229684"
+        },
+        {
+          "id": "2036330995973292346",
+          "text": "Many such cases https://t.co/3OfLIYntTr",
+          "createdAt": "2026-03-24T06:35:17.000Z",
+          "url": "https://x.com/garrytan/status/2036330995973292346",
+          "likes": 18,
+          "retweets": 2,
+          "replies": 3,
+          "isQuote": true,
+          "quotedTweetId": "2036329890254028821"
         }
       ]
     },
@@ -39,21 +50,32 @@
       "bio": "AI | Tech | Collaboration | DM for Al tools collabs 📩 CPP: @socialsight",
       "tweets": [
         {
-          "id": "2036161163277566390",
-          "text": "Most AI image tools just follow prompts.\nThis one actually thinks before it generates.\n\nTried turning a simple idea into a structured visual… and it nailed the composition, layout, and details in one go.\n\nNot better prompts.\nBetter understanding.\n\nMade with Uni-1 by @lumalabsai https://t.co/ubl42bJvWs",
-          "createdAt": "2026-03-23T19:20:26.000Z",
-          "url": "https://x.com/oggii_0/status/2036161163277566390",
-          "likes": 27,
+          "id": "2036408875155599484",
+          "text": "From pixels to personalities this is where creativity meets AI at scale \n\nThe next wave of influencers won’t just be human. Game on. https://t.co/jdA7xmGMVN",
+          "createdAt": "2026-03-24T11:44:45.000Z",
+          "url": "https://x.com/oggii_0/status/2036408875155599484",
+          "likes": 4,
           "retweets": 0,
-          "replies": 6,
+          "replies": 1,
+          "isQuote": true,
+          "quotedTweetId": "2036147665206174051"
+        },
+        {
+          "id": "2036361628875366719",
+          "text": "2-week limited promo is live\n\n → unlimited Claude Opus 4.6 + GPT 5.4\n\nTry it here:\n https://t.co/xOAJ84OVpx\n\n#MyAccioWorks #Accio #AccioAgent",
+          "createdAt": "2026-03-24T08:37:00.000Z",
+          "url": "https://x.com/oggii_0/status/2036361628875366719",
+          "likes": 4,
+          "retweets": 0,
+          "replies": 0,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2036112238805987680",
-          "text": "If you have an idea, you can turn it into something like this too\n\nBreak it into moments Add emotion Let AI do the rest\n\nTry it on https://t.co/WvO10KkD7s",
-          "createdAt": "2026-03-23T16:06:01.000Z",
-          "url": "https://x.com/oggii_0/status/2036112238805987680",
+          "id": "2036361251421560940",
+          "text": "The result:\n\n • Less hiring\n • Faster execution\n • More leverage\n\nThis is how solo founders scale now https://t.co/oaNTQchnUG",
+          "createdAt": "2026-03-24T08:35:30.000Z",
+          "url": "https://x.com/oggii_0/status/2036361251421560940",
           "likes": 5,
           "retweets": 0,
           "replies": 0,
@@ -69,15 +91,26 @@
       "bio": "🚀AI tools, prompts & wild ideas built for curious minds🤖CPP: @Wireflowai @BasedLabsAI @AltSocietyAI",
       "tweets": [
         {
-          "id": "2036140572008693946",
-          "text": "Turned my avatar into a 3D model on @LumaLabsAI✨\n\nLeft: Made with Uni-1\nRight Made with GPT-1.5\n\nPrompt👇🏻 https://t.co/r5ez4MWI53",
-          "createdAt": "2026-03-23T17:58:36.000Z",
-          "url": "https://x.com/TechieBySA/status/2036140572008693946",
-          "likes": 33,
-          "retweets": 1,
-          "replies": 7,
+          "id": "2036409215930003612",
+          "text": "Just replace [SHOW/MOVIE]:👇🏻\n\n“Pixar/Disney 3D CGI animated movie poster. Soft volumetric lighting, smooth subsurface skin shading, expressive Pixar-style faces, polished studio render quality. Vertical poster, 3:4 ratio.\nShow/Movie: [SHOW/MOVIE]\nAutomatically select the 3 most",
+          "createdAt": "2026-03-24T11:46:06.000Z",
+          "url": "https://x.com/TechieBySA/status/2036409215930003612",
+          "likes": 6,
+          "retweets": 0,
+          "replies": 0,
           "isQuote": false,
           "quotedTweetId": null
+        },
+        {
+          "id": "2036409211408548185",
+          "text": "Tried this prompt with Movies on @SocialSight🍿🎬\n\nPrompt👇🏻 https://t.co/ebQ1cooJls https://t.co/8eF0n5VLvf",
+          "createdAt": "2026-03-24T11:46:05.000Z",
+          "url": "https://x.com/TechieBySA/status/2036409211408548185",
+          "likes": 25,
+          "retweets": 2,
+          "replies": 14,
+          "isQuote": true,
+          "quotedTweetId": "2035781019404472471"
         }
       ]
     },
@@ -88,26 +121,37 @@
       "bio": "喜欢摇滚乐、爱钓鱼的PM\n网站：https://t.co/vnUpLt752o",
       "tweets": [
         {
-          "id": "2036120875137900998",
-          "text": "计划人肉协同过滤优化自己的Newsletter信息源。\n\n除是否读完标记外，加了一个收藏Checkbox。\n\n如某个信息源收藏的多，未来优先采集，排序靠前，采集更多条数。 https://t.co/RxpXEFktMI",
-          "createdAt": "2026-03-23T16:40:20.000Z",
-          "url": "https://x.com/vista8/status/2036120875137900998",
-          "likes": 3,
+          "id": "2036420157959184774",
+          "text": "用提示词控制3D模型做动作，来自英伟达的Kimodo 模型。\n\n用700小时专业动捕数据训练，适用于人和机器人骨骼。\n\n速度很快，抱抱脸可以免费体验。 https://t.co/rmxUFAuBvG",
+          "createdAt": "2026-03-24T12:29:35.000Z",
+          "url": "https://x.com/vista8/status/2036420157959184774",
+          "likes": 2,
           "retweets": 0,
-          "replies": 2,
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "2036043907776098345"
+        },
+        {
+          "id": "2036387198019445191",
+          "text": "网页：https://t.co/vKGU5cjky9",
+          "createdAt": "2026-03-24T10:18:36.000Z",
+          "url": "https://x.com/vista8/status/2036387198019445191",
+          "likes": 2,
+          "retweets": 0,
+          "replies": 0,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2036117026478199086",
-          "text": "用了OpenCLI后，现在非常讨厌Playwright MCP。\n\n动动不动就拉起一个没有登录态的Chrome，太辣鸡。\n\nOpenCLI搭配了一个Chrome插件，只需要安装一次，后续就能控制自己用的浏览器。\n\n而且也不像Chrome CDP，需要手动点击下接受控制。\n\nOpenCLI一次点击都不用，完全接管浏览器。 https://t.co/KV0no0FcTK",
-          "createdAt": "2026-03-23T16:25:02.000Z",
-          "url": "https://x.com/vista8/status/2036117026478199086",
-          "likes": 328,
-          "retweets": 55,
-          "replies": 15,
-          "isQuote": true,
-          "quotedTweetId": "2036110446131102023"
+          "id": "2036387141538947553",
+          "text": "AI Agent经常信心满满说自己搞定了。\n\n但等你运行的时候，页面白屏、按钮不管用、控制台报错，问题一堆。\n\nProofShot 让 AI 录视频证明自己真的写好了代码。\n\n30 秒装好：\nnpm install -g proofshot &amp;&amp; proofshot install\n\n开源MIT 协议，代码在 GitHub 开源。 https://t.co/ZYq1xdZjf2",
+          "createdAt": "2026-03-24T10:18:23.000Z",
+          "url": "https://x.com/vista8/status/2036387141538947553",
+          "likes": 21,
+          "retweets": 6,
+          "replies": 3,
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     },
@@ -118,13 +162,103 @@
       "bio": "AI Educator & Creator | Ambassador @Adobe @LeonardoAi & @tripoai | Partner with leading brands | 📧 Collaboration → hello@amirazairi.com",
       "tweets": [
         {
-          "id": "2036111303778214377",
-          "text": "I like this direction from @TopviewAIhq.\n\nTopview Agent V2 x Seedance 2.0 combines smart automation, precise control, and multi-scene AI video generation in one workflow, making studio-quality video creation feel far more practical for any length, any industry.\n\nWhat makes it https://t.co/RxR9M3fVc9",
-          "createdAt": "2026-03-23T16:02:18.000Z",
-          "url": "https://x.com/azed_ai/status/2036111303778214377",
-          "likes": 49,
+          "id": "2036397383320478056",
+          "text": "Prompt share: Bold SketchToon Minis\n\n💬Prompt:\nA [subject], cartoon illustration style with rough black linear outlines, no gradients, flat colors only, centered on a clean white background, minimal detail, playful and bold character design.\n\nCheck ATLs for inspiration ✨ https://t.co/HyJXiadPdU",
+          "createdAt": "2026-03-24T10:59:05.000Z",
+          "url": "https://x.com/azed_ai/status/2036397383320478056",
+          "likes": 75,
+          "retweets": 6,
+          "replies": 6,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2036353086915224028",
+          "text": "Newly created style on Midjourney\n\n--sref 5116010877 https://t.co/11NkFJAC2N",
+          "createdAt": "2026-03-24T08:03:04.000Z",
+          "url": "https://x.com/azed_ai/status/2036353086915224028",
+          "likes": 31,
+          "retweets": 4,
+          "replies": 6,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "凡人小北",
+      "handle": "frxiaobei",
+      "bio": "行道途中。非求速成，惟求通达。\n在真实业务与组织中持续验证 AI 的价值与边界。\n个人 IP｜商业与管理｜AI 咨询",
+      "tweets": [
+        {
+          "id": "2036324458093486506",
+          "text": "好了，有中文名了，token=词元 https://t.co/IR69XtuTHM",
+          "createdAt": "2026-03-24T06:09:18.000Z",
+          "url": "https://x.com/frxiaobei/status/2036324458093486506",
+          "likes": 4,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2036297387954807213",
+          "text": "一醒来我这是刷到了什么，有道龙虾LobsterAI被 OpenClaw 之父实名点赞了。\n\n我猜他多少也看到了真实反馈：\nOpenClaw 这套东西能力很猛，但上手门槛高、配置折腾，很多人其实卡在第一步。\n\n而龙虾到了中国，LobsterAI把这套东西直接做成了能即可上手的产品，安装简单很多，对新手也更友好。\n\n给中国 https://t.co/jpnWBrrE0V https://t.co/bWbFUdvduF",
+          "createdAt": "2026-03-24T04:21:44.000Z",
+          "url": "https://x.com/frxiaobei/status/2036297387954807213",
+          "likes": 10,
+          "retweets": 0,
+          "replies": 2,
+          "isQuote": true,
+          "quotedTweetId": "2036079765728432149"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Orange AI",
+      "handle": "oran_ge",
+      "bio": "CEO of MarsWave. Build for Agents, by Agents.",
+      "tweets": [
+        {
+          "id": "2036401301836407016",
+          "text": "TypeNo 的官网是 https://t.co/9w4MbYU1uU\nTypeNo 基于我们公司开源的 coli 开源项目开发\ncoli 是专为 Agent 设计的 ASR，适合各类龙虾使用\n如果你也需要使用 ASR 可以在这里找到这个项目\n欢迎基于 coli 来创建你的 STT 项目\nhttps://t.co/k0dGgdcWbU",
+          "createdAt": "2026-03-24T11:14:39.000Z",
+          "url": "https://x.com/oran_ge/status/2036401301836407016",
+          "likes": 8,
+          "retweets": 1,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2036400058506391578",
+          "text": "大多数语音输入法都在变得越来越臃肿：\n要登录、要订阅、要联网、要加一堆新功能，要学习一堆新交互。\n\n世界，不应该这样。\n输入，就应该专注。\n于是我们做了 TypeNo。\n\nTypeNo 是一款面向 macOS 的极简语音输入法：\n- 永远免费，永远开源\n- 本地模型，保护隐私\n- 轻量模型，节省内存\n\n按下 https://t.co/Si9Onui7BD",
+          "createdAt": "2026-03-24T11:09:43.000Z",
+          "url": "https://x.com/oran_ge/status/2036400058506391578",
+          "likes": 222,
+          "retweets": 31,
+          "replies": 32,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "李继刚",
+      "handle": "lijigang",
+      "bio": "Reader.  Thinker.  Prompter.",
+      "tweets": [
+        {
+          "id": "2036370468710785449",
+          "text": "https://t.co/XhJS8jKzcn",
+          "createdAt": "2026-03-24T09:12:08.000Z",
+          "url": "https://x.com/lijigang/status/2036370468710785449",
+          "likes": 56,
           "retweets": 9,
-          "replies": 19,
+          "replies": 1,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -132,37 +266,18 @@
     },
     {
       "source": "x",
-      "name": "Alex Hormozi",
-      "handle": "AlexHormozi",
-      "bio": "Co-Founder: https://t.co/gQN7OehYd2, https://t.co/VLS8LzeasI. Business Owners: Get your 2026 free scaling roadmap 👇",
+      "name": "Naval",
+      "handle": "naval",
+      "bio": "Incompressible",
       "tweets": [
         {
-          "id": "2036090140465246532",
-          "text": "Wealth isn't about having a lot of money.\nIt's about not needing anymore.",
-          "createdAt": "2026-03-23T14:38:12.000Z",
-          "url": "https://x.com/AlexHormozi/status/2036090140465246532",
-          "likes": 1661,
-          "retweets": 137,
-          "replies": 256,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Andrew Huberman",
-      "handle": "hubermanlab",
-      "bio": "Professor of Neurobiology and Ophthalmology at Stanford Medicine • Host of Huberman Lab • Focused on science and health research and public education",
-      "tweets": [
-        {
-          "id": "2036090712597692484",
-          "text": "A clarification for those frustrated about the peptide shifts happening and incoming. The gray, black, AND compounding sources were all on the line. The fact that compounding sources appear likely to survive the cut is significant for cost, purity and accessibility reasons.",
-          "createdAt": "2026-03-23T14:40:29.000Z",
-          "url": "https://x.com/hubermanlab/status/2036090712597692484",
-          "likes": 264,
-          "retweets": 5,
-          "replies": 52,
+          "id": "2036285641462595898",
+          "text": "AI coding agents can now deliver one-shot custom apps straight to your phone. \n\nIt’s the beginning of the end for the iPhone’s dominance.",
+          "createdAt": "2026-03-24T03:35:03.000Z",
+          "url": "https://x.com/naval/status/2036285641462595898",
+          "likes": 7556,
+          "retweets": 431,
+          "replies": 891,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -175,32 +290,43 @@
       "bio": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
       "tweets": [
         {
-          "id": "2036114136245969025",
-          "text": "Agent Skills 设计哲学和实战进化\n\n前半段是真实场景演示，看我日常怎么用 Agent + Skills 完成实际工作；后半段是设计哲学和迭代方法论，把踩过的坑和悟出来的经验都讲透。\n\n四个核心观点：\n\n1）从提示词到 Skills：起步没有门槛。把你已有的好用提示词、好的实践、甚至模糊的想法，直接用 https://t.co/xcPJnYclvw https://t.co/O0AWNX2dAz",
-          "createdAt": "2026-03-23T16:13:33.000Z",
-          "url": "https://x.com/dotey/status/2036114136245969025",
-          "likes": 404,
-          "retweets": 76,
-          "replies": 18,
-          "isQuote": true,
-          "quotedTweetId": "2035754880275501405"
-        },
-        {
-          "id": "2036095608998515057",
-          "text": "@Kimi_Moonshot Fireworks AI CEO Lin Qiao 也出来做了补充：Cursor 从第一天起就通过 Fireworks 合规使用，不是事后补救， Cursor 和 Kimi 之间不存在许可证违规，Fireworks 作为中间平台提供了强化学习基础设施和推理服务。\nhttps://t.co/zTK2fSCXUI\n\n【注：Lin Qiao 是 Fireworks AI 创始人兼 CEO，前 Meta AI",
-          "createdAt": "2026-03-23T14:59:56.000Z",
-          "url": "https://x.com/dotey/status/2036095608998515057",
-          "likes": 1,
-          "retweets": 0,
+          "id": "2036271023079784831",
+          "text": "参考\nhttps://t.co/IKB2970Afh",
+          "createdAt": "2026-03-24T02:36:58.000Z",
+          "url": "https://x.com/dotey/status/2036271023079784831",
+          "likes": 65,
+          "retweets": 9,
           "replies": 1,
           "isQuote": true,
-          "quotedTweetId": "2035971457768190064"
+          "quotedTweetId": "2035015960537485507"
+        },
+        {
+          "id": "2036271021058117892",
+          "text": "我觉得现在重点不是什么都去学，也不是说这些知识不用学，而是以终为始：\n先看看自己目标是什么，要做什么，然后做这些事情需要哪些技术（可以用 Deep Research 这种辅助调研），然后再去针对性学习。\n\n另外从深度和广度入手，深度方面学习底层知识，广度方面建立“地图”，知道有哪些技术可用。 https://t.co/SCIKTE7PVL",
+          "createdAt": "2026-03-24T02:36:58.000Z",
+          "url": "https://x.com/dotey/status/2036271021058117892",
+          "likes": 181,
+          "retweets": 17,
+          "replies": 22,
+          "isQuote": true,
+          "quotedTweetId": "2036266944962371714"
+        },
+        {
+          "id": "2036262717401567522",
+          "text": "视频中用来抓取 YouTube 字幕的 Gem 的提示词：\nhttps://t.co/j8ul0GFRZM\n或者也可以用这个 skill（推荐）：https://t.co/mIwDZItibd\n\nhttps://t.co/qrbYZoM2MR",
+          "createdAt": "2026-03-24T02:03:58.000Z",
+          "url": "https://x.com/dotey/status/2036262717401567522",
+          "likes": 0,
+          "retweets": 2,
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "2036260306440298960"
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 8,
-    "totalTweets": 12
+    "xBuilders": 10,
+    "totalTweets": 22
   }
 }
