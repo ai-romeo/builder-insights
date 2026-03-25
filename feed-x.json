@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-25T01:12:22.221Z",
+  "generatedAt": "2026-03-25T01:46:45.427Z",
   "lookbackHours": 12,
   "x": [
     {
@@ -9,86 +9,45 @@
       "bio": "President & CEO @ycombinator —Founder https://t.co/7aoJjp1iIK—designer/engineer who helps founders—SF Dem accelerating the boom loop—haters not allowed in my sauna",
       "tweets": [
         {
-          "id": "2036576605078954156",
-          "text": "I want it https://t.co/nZpci8kgN3",
-          "createdAt": "2026-03-24T22:51:15.000Z",
-          "url": "https://x.com/garrytan/status/2036576605078954156",
-          "likes": 222,
-          "retweets": 8,
-          "replies": 41,
+          "id": "2036615383403429901",
+          "text": "We have to accelerate https://t.co/Gp3H2YmJQK https://t.co/hlI2prhy7w",
+          "createdAt": "2026-03-25T01:25:20.000Z",
+          "url": "https://x.com/garrytan/status/2036615383403429901",
+          "likes": 21,
+          "retweets": 2,
+          "replies": 2,
           "isQuote": true,
-          "quotedTweetId": "2036430903208218994"
+          "quotedTweetId": "2036582590153388329"
         },
         {
-          "id": "2036573916039368941",
-          "text": "GStack swag soon? https://t.co/Si8wqw552s",
-          "createdAt": "2026-03-24T22:40:33.000Z",
-          "url": "https://x.com/garrytan/status/2036573916039368941",
-          "likes": 32,
+          "id": "2036614982243385463",
+          "text": "OK you caught me https://t.co/I1pdKIeuag",
+          "createdAt": "2026-03-25T01:23:44.000Z",
+          "url": "https://x.com/garrytan/status/2036614982243385463",
+          "likes": 15,
           "retweets": 0,
-          "replies": 11,
+          "replies": 3,
           "isQuote": true,
-          "quotedTweetId": "2036565380475527230"
-        },
-        {
-          "id": "2036573558424674420",
-          "text": "Many such cases https://t.co/fZJnTcxf2U",
-          "createdAt": "2026-03-24T22:39:08.000Z",
-          "url": "https://x.com/garrytan/status/2036573558424674420",
-          "likes": 13,
-          "retweets": 0,
-          "replies": 4,
-          "isQuote": true,
-          "quotedTweetId": "2036573378639974498"
+          "quotedTweetId": "2036613794365853821"
         }
       ]
     },
     {
       "source": "x",
-      "name": "Oogie",
-      "handle": "oggii_0",
-      "bio": "AI | Tech | Collaboration | DM for Al tools collabs 📩 CPP: @socialsight",
+      "name": "Ish Verduzco",
+      "handle": "ishverduzco",
+      "bio": "social lead @notionHQ // ex @linkedin, @snap, @a16z",
       "tweets": [
         {
-          "id": "2036512605003718965",
-          "text": "Once a tool makes things faster and easier, it usually becomes the new default https://t.co/YB8xmTd9Cu",
-          "createdAt": "2026-03-24T18:36:56.000Z",
-          "url": "https://x.com/oggii_0/status/2036512605003718965",
-          "likes": 1,
+          "id": "2036613719061631069",
+          "text": "The vibes at @NotionHQ 🤌🏽 https://t.co/8PLxIjKuAZ",
+          "createdAt": "2026-03-25T01:18:43.000Z",
+          "url": "https://x.com/ishverduzco/status/2036613719061631069",
+          "likes": 10,
           "retweets": 0,
-          "replies": 0,
-          "isQuote": true,
-          "quotedTweetId": "2036462666735333788"
-        },
-        {
-          "id": "2036480649440473133",
-          "text": "Nano Banana pro on @SocialSight \n\nPrompt: CONCEPT:\nA futuristic architectural blueprint of the Burj Khalifa projected as a glowing hologram, actively constructing itself in mid-air through robotic precision and digital intelligence.\n\nSUBJECT:\nA semi-transparent holographic https://t.co/Ey0IEe5mEe",
-          "createdAt": "2026-03-24T16:29:57.000Z",
-          "url": "https://x.com/oggii_0/status/2036480649440473133",
-          "likes": 37,
-          "retweets": 0,
-          "replies": 15,
+          "replies": 2,
           "isQuote": false,
           "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Josh Woodward",
-      "handle": "joshwoodward",
-      "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
-      "tweets": [
-        {
-          "id": "2036513009661780291",
-          "text": "I've been at @Google since I was an intern, and there's never been a more exciting time. The place is pulsating.\n\nWe're hiring :)\n\n@GeminiApp or @GoogleAIStudio: https://t.co/otVHg9uuqo\n\n@GoogleLabs: https://t.co/e7zA6GJYDe https://t.co/9J4UFJyWPy",
-          "createdAt": "2026-03-24T18:38:32.000Z",
-          "url": "https://x.com/joshwoodward/status/2036513009661780291",
-          "likes": 1034,
-          "retweets": 78,
-          "replies": 51,
-          "isQuote": true,
-          "quotedTweetId": "2036447400508731817"
         }
       ]
     },
@@ -99,37 +58,26 @@
       "bio": "🚀AI tools, prompts & wild ideas built for curious minds🤖CPP: @Wireflowai @BasedLabsAI @AltSocietyAI",
       "tweets": [
         {
-          "id": "2036511387636445420",
-          "text": "Simply replace [LANDMARK]:✨\n\n“Create an infographic image of [LANDMARK], combining a real photograph of the landmark with blueprint-style technical annotations and diagrams overlaid on the image. Include the title “[LANDMARK]” in a hand-drawn box in the corner. Add white",
-          "createdAt": "2026-03-24T18:32:06.000Z",
-          "url": "https://x.com/TechieBySA/status/2036511387636445420",
-          "likes": 11,
-          "retweets": 2,
-          "replies": 5,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2036511383911637220",
-          "text": "Landmark Infographics by GPT-1.5 Image✨🗽\n\nPrompt👇🏻 https://t.co/PKkERkvo9W",
-          "createdAt": "2026-03-24T18:32:05.000Z",
-          "url": "https://x.com/TechieBySA/status/2036511383911637220",
-          "likes": 119,
-          "retweets": 14,
-          "replies": 13,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2036460904355623333",
-          "text": "Check out more prompts👇🏻 https://t.co/MNSRae61F3",
+          "id": "2036460901541253605",
+          "text": "Simply replace [CITY]:✨\n\n“Vertical composition, 1080x1080. A miniature [CITY] made entirely in knitted yarn-art style. Iconic landmarks and architecture of [CITY] crafted in soft yarn with glowing warm interiors. Knitted buildings, yarn-textured streets, yarn-people walking",
           "createdAt": "2026-03-24T15:11:29.000Z",
-          "url": "https://x.com/TechieBySA/status/2036460904355623333",
+          "url": "https://x.com/TechieBySA/status/2036460901541253605",
           "likes": 10,
           "retweets": 1,
           "replies": 1,
-          "isQuote": true,
-          "quotedTweetId": "2036409211408548185"
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2036460897598599486",
+          "text": "Knitted Cities by Nano Banana 2🧶✨\n\nPrompt👇🏻 https://t.co/vwu7R4R44y",
+          "createdAt": "2026-03-24T15:11:28.000Z",
+          "url": "https://x.com/TechieBySA/status/2036460897598599486",
+          "likes": 98,
+          "retweets": 8,
+          "replies": 25,
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     },
@@ -140,35 +88,24 @@
       "bio": "喜欢摇滚乐、爱钓鱼的PM\n网站：https://t.co/vnUpLt752o",
       "tweets": [
         {
-          "id": "2036607331560202535",
-          "text": "现在有一个习惯：\n\n看到好思路和好方法，直接丢链接或Github库。\n\n让Claude Code学习优化自己的已有Skill。 https://t.co/Z6Hmtvtc5f",
-          "createdAt": "2026-03-25T00:53:20.000Z",
-          "url": "https://x.com/vista8/status/2036607331560202535",
-          "likes": 4,
-          "retweets": 2,
-          "replies": 1,
+          "id": "2036613593442238866",
+          "text": "做AI生成内容测试。\n\n成大事的人，为什么从不反思自己？\n\nMarc Andreessen 最近说了一句让很多人不舒服的话：\n\n「我的内省为零，越少越好。」\n\n说这话的人，是硅谷最有影响力的投资人之一，a16z 的创始人，他见过这个时代几乎所有伟大的创始人。\n\n他不是在炫耀，他是在描述一个他观察了很久的现象。",
+          "createdAt": "2026-03-25T01:18:13.000Z",
+          "url": "https://x.com/vista8/status/2036613593442238866",
+          "likes": 5,
+          "retweets": 0,
+          "replies": 4,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2036604416867049865",
-          "text": "比如基于昨天搜索到的AI新闻写的一首歌，用的披头士风格。 https://t.co/1HO27kqyyy https://t.co/bEZfmxOkhx",
-          "createdAt": "2026-03-25T00:41:45.000Z",
-          "url": "https://x.com/vista8/status/2036604416867049865",
-          "likes": 1,
-          "retweets": 0,
-          "replies": 1,
-          "isQuote": true,
-          "quotedTweetId": "2036603518891725206"
-        },
-        {
-          "id": "2036603586684264742",
-          "text": "插件Github  https://t.co/uZ2KaqEQEb\n\n安装指令：opencli plugin install github:joeseesun/opencli-plugin-suno",
-          "createdAt": "2026-03-25T00:38:27.000Z",
-          "url": "https://x.com/vista8/status/2036603586684264742",
-          "likes": 1,
+          "id": "2036603518891725206",
+          "text": "给Opencli写了一个suno cli插件。\n\n让大模型搜索任意信息，生成任意风格suno歌曲。\n\n项目已开源，见评论区 https://t.co/prTNRH0SnA",
+          "createdAt": "2026-03-25T00:38:11.000Z",
+          "url": "https://x.com/vista8/status/2036603518891725206",
+          "likes": 11,
           "retweets": 1,
-          "replies": 1,
+          "replies": 4,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -181,193 +118,24 @@
       "bio": "AI Educator & Creator | Ambassador @Adobe @LeonardoAi & @tripoai | Partner with leading brands | 📧 Collaboration → hello@amirazairi.com",
       "tweets": [
         {
-          "id": "2036580149085511871",
-          "text": "I worked from 12 p.m. to 12 a.m...\n\nI truly love creating content, but lately this algorithm has made it feel a lot less enjoyable\n\nIt’s not about numbers or money, especially since I’m not getting paid anyway. For me, it’s about the community\n\n If I put time and energy into",
-          "createdAt": "2026-03-24T23:05:20.000Z",
-          "url": "https://x.com/azed_ai/status/2036580149085511871",
-          "likes": 59,
-          "retweets": 1,
-          "replies": 17,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2036578317344669940",
-          "text": "5 fingers with Midjourney V8 https://t.co/xqiLPwWtKR",
-          "createdAt": "2026-03-24T22:58:03.000Z",
-          "url": "https://x.com/azed_ai/status/2036578317344669940",
-          "likes": 4,
+          "id": "2036552109944984044",
+          "text": "It is indeed 😍",
+          "createdAt": "2026-03-24T21:13:54.000Z",
+          "url": "https://x.com/azed_ai/status/2036552109944984044",
+          "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2036574163071107110",
-          "text": "Midjourney V8 https://t.co/Jv8dVm5fI9",
-          "createdAt": "2026-03-24T22:41:32.000Z",
-          "url": "https://x.com/azed_ai/status/2036574163071107110",
-          "likes": 13,
-          "retweets": 1,
-          "replies": 1,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Adam Grant",
-      "handle": "AdamMGrant",
-      "bio": "Organizational psychologist @Wharton. #1 NYT bestsellers: THINK AGAIN, HIDDEN POTENTIAL. Podcasts: Re:Thinking & WorkLife @TEDTalks. Former diver and magician.",
-      "tweets": [
-        {
-          "id": "2036475211948650707",
-          "text": "Only following people who agree with you is a recipe for confirmation bias and groupthink.\n\nCritical thinking depends on listening to people who question your assumptions and challenge your conclusions.\n\nLearning is the product of engaging with a range of thoughtful views.",
-          "createdAt": "2026-03-24T16:08:21.000Z",
-          "url": "https://x.com/AdamMGrant/status/2036475211948650707",
-          "likes": 566,
-          "retweets": 160,
-          "replies": 77,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Chris Williamson",
-      "handle": "ChrisWillx",
-      "bio": "Dialled",
-      "tweets": [
-        {
-          "id": "2036486730774106174",
-          "text": "Don't Avoid Your Suffering https://t.co/JxFnBbalgG",
-          "createdAt": "2026-03-24T16:54:07.000Z",
-          "url": "https://x.com/ChrisWillx/status/2036486730774106174",
-          "likes": 127,
-          "retweets": 12,
-          "replies": 16,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Alex Hormozi",
-      "handle": "AlexHormozi",
-      "bio": "Co-Founder: https://t.co/gQN7OehYd2, https://t.co/VLS8LzeasI. Business Owners: Get your 2026 free scaling roadmap 👇",
-      "tweets": [
-        {
-          "id": "2036479601338360072",
-          "text": "Friendly reminder that you're allowed to be stressed, angry, sad, frustrated, annoyed, aka have things generally not go your way…and still get shit done.",
-          "createdAt": "2026-03-24T16:25:47.000Z",
-          "url": "https://x.com/AlexHormozi/status/2036479601338360072",
-          "likes": 2252,
-          "retweets": 210,
-          "replies": 272,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Andrew Huberman",
-      "handle": "hubermanlab",
-      "bio": "Professor of Neurobiology and Ophthalmology at Stanford Medicine • Host of Huberman Lab • Focused on science and health research and public education",
-      "tweets": [
-        {
-          "id": "2036450045445415152",
-          "text": "Here’s the full discussion https://t.co/MJLjpKzXjD",
-          "createdAt": "2026-03-24T14:28:20.000Z",
-          "url": "https://x.com/hubermanlab/status/2036450045445415152",
-          "likes": 18,
-          "retweets": 1,
-          "replies": 2,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2036449994333626393",
-          "text": "Dr Rhonda Patrick on the benefits of brief, even 10 minutes, of high intensity exercise on cognitive function, including impulse control. @foundmyfitness https://t.co/cWoeLXolL0",
-          "createdAt": "2026-03-24T14:28:08.000Z",
-          "url": "https://x.com/hubermanlab/status/2036449994333626393",
-          "likes": 744,
-          "retweets": 45,
-          "replies": 25,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Orange AI",
-      "handle": "oran_ge",
-      "bio": "CEO of MarsWave. Build for Agents, by Agents.",
-      "tweets": [
-        {
-          "id": "2036600066430091773",
-          "text": "昨天下午写完第一版之后就发了\n发完收到很多用户反馈，安装问题，权限问题，各种问题吧\n事实证明 Vibe Coding 也是离不开用户反馈的\n今天在 1.0.5 版本全部修完了\n这个版本开始还支持自动更新了\n有新版的时候可以在菜单栏里点击更新就升级完成啦\n另外还有一个转录文件的彩蛋，不知道大家发现了没有 https://t.co/CxTEpwCsYw",
-          "createdAt": "2026-03-25T00:24:28.000Z",
-          "url": "https://x.com/oran_ge/status/2036600066430091773",
-          "likes": 2,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": true,
-          "quotedTweetId": "2036596754796388430"
-        },
-        {
-          "id": "2036599459241664540",
-          "text": "ListenHub TTS API 更新：现在可以试听声音了。\n\n之前选 TTS 声音只能看名字盲猜。\n\"小花妖\"是什么声音？\n\"哈基米\"又是什么声音？\n选错了只能生成完再后悔。\n\n现在每个声音都带了 demoAudioUrl，先听再选。\n中文 30 个声音，英文也有。\n男声女声，正经的、可爱的、ASMR https://t.co/u7H1o3x0jI",
-          "createdAt": "2026-03-25T00:22:03.000Z",
-          "url": "https://x.com/oran_ge/status/2036599459241664540",
-          "likes": 4,
-          "retweets": 1,
-          "replies": 0,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2036596754796388430",
-          "text": "TypeNo v1.0.5 更新\n最快的打字方式，就是不打字。\n\n🔧 自动安装\n不用再复制 npm 命令了。打开 app，自动检测环境并安装语音引擎。没装\nNode.js？引导你安装，装完自动继续，全程不用碰终端。\n\n🔄 一键更新\n菜单栏点一下，下载、替换、重启一气呵成。macOS",
-          "createdAt": "2026-03-25T00:11:19.000Z",
-          "url": "https://x.com/oran_ge/status/2036596754796388430",
+          "id": "2036517802941751783",
+          "text": "Try it today at:  https://t.co/rUDbDjRUfK",
+          "createdAt": "2026-03-24T18:57:35.000Z",
+          "url": "https://x.com/azed_ai/status/2036517802941751783",
           "likes": 3,
-          "retweets": 1,
+          "retweets": 0,
           "replies": 0,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "李继刚",
-      "handle": "lijigang",
-      "bio": "Reader.  Thinker.  Prompter.",
-      "tweets": [
-        {
-          "id": "2036463085326905538",
-          "text": "https://t.co/q9JL7v4nXv\n\n把「圆桌讨论」的skill 也添加进来了，以后归拢一下，把日常使用比较成熟的skill 都放在这个repo。",
-          "createdAt": "2026-03-24T15:20:09.000Z",
-          "url": "https://x.com/lijigang/status/2036463085326905538",
-          "likes": 218,
-          "retweets": 37,
-          "replies": 5,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2036450277512061017",
-          "text": "思维工具箱中，十分称手的一个工具：二轴分析法 https://t.co/BIdIIonsxM",
-          "createdAt": "2026-03-24T14:29:16.000Z",
-          "url": "https://x.com/lijigang/status/2036450277512061017",
-          "likes": 57,
-          "retweets": 6,
-          "replies": 1,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -380,116 +148,15 @@
       "bio": "Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w",
       "tweets": [
         {
-          "id": "2036590721927618988",
-          "text": "Something shifted in January...\nLast year I barely knew how GitHub worked; now I have 13k+ stars on GitHub \n(and I'm not even a technical person, but then again how do you define technical these days?) https://t.co/tpqvp2eanG",
-          "createdAt": "2026-03-24T23:47:20.000Z",
-          "url": "https://x.com/zarazhangrui/status/2036590721927618988",
-          "likes": 74,
-          "retweets": 0,
-          "replies": 11,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2036552689673445847",
-          "text": "Frontend-slides now supports deploying your deck as a URL &amp; exporting as PDF! \n\nSo you can share your vibe coded slides with others easily\n\nHere's an example of a deployed deck: https://t.co/ZBolDpPMTV https://t.co/zNFl6fpEKL https://t.co/L6RgRTDVOU",
-          "createdAt": "2026-03-24T21:16:13.000Z",
-          "url": "https://x.com/zarazhangrui/status/2036552689673445847",
-          "likes": 67,
-          "retweets": 2,
-          "replies": 4,
+          "id": "2036495972306706753",
+          "text": "Traditional education (learn first, build later) is backwards. Learning in the AI age should be \"build first, learn later\". \n\nI took CS courses in college but struggled to connect with the concepts. Turns out the best course materials are my own vibe coded apps https://t.co/rx8rngpECg",
+          "createdAt": "2026-03-24T17:30:50.000Z",
+          "url": "https://x.com/zarazhangrui/status/2036495972306706753",
+          "likes": 135,
+          "retweets": 11,
+          "replies": 18,
           "isQuote": true,
-          "quotedTweetId": "2016337615843434646"
-        },
-        {
-          "id": "2036540694291161181",
-          "text": "“When it comes to telling the story of the future, startups have multiple structural advantages over the incumbents.” https://t.co/3YElAALcr2",
-          "createdAt": "2026-03-24T20:28:33.000Z",
-          "url": "https://x.com/zarazhangrui/status/2036540694291161181",
-          "likes": 12,
-          "retweets": 1,
-          "replies": 3,
-          "isQuote": true,
-          "quotedTweetId": "2036481490238820589"
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Naval",
-      "handle": "naval",
-      "bio": "Incompressible",
-      "tweets": [
-        {
-          "id": "2036467656371609976",
-          "text": "The only book an entrepreneur needs. https://t.co/vsaFTmo3Li",
-          "createdAt": "2026-03-24T15:38:19.000Z",
-          "url": "https://x.com/naval/status/2036467656371609976",
-          "likes": 5274,
-          "retweets": 408,
-          "replies": 268,
-          "isQuote": true,
-          "quotedTweetId": "2036456577536803126"
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Andrej Karpathy",
-      "handle": "karpathy",
-      "bio": "I like to train large deep neural nets. Previously Director of AI @ Tesla, founding team @ OpenAI, PhD @ Stanford.",
-      "tweets": [
-        {
-          "id": "2036487306585268612",
-          "text": "Software horror: litellm PyPI supply chain attack. \n\nSimple `pip install litellm` was enough to exfiltrate SSH keys, AWS/GCP/Azure creds, Kubernetes configs, git credentials, env vars (all your API keys), shell history, crypto wallets, SSL private keys, CI/CD secrets, database https://t.co/aKjZJcECFq",
-          "createdAt": "2026-03-24T16:56:24.000Z",
-          "url": "https://x.com/karpathy/status/2036487306585268612",
-          "likes": 16182,
-          "retweets": 3005,
-          "replies": 783,
-          "isQuote": true,
-          "quotedTweetId": "2036414330267193815"
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Ray Dalio",
-      "handle": "RayDalio",
-      "bio": "Official account of Ray Dalio, founder of Bridgewater Associates, author of #1 New York Times bestseller 'Principles,' professional mistake maker",
-      "tweets": [
-        {
-          "id": "2036516875585077311",
-          "text": "Have a conversation with Digital Ray about an All Weather portfolio now: https://t.co/aGk1cHNA5N\n\nhttps://t.co/5XEk60Xt1i https://t.co/JVRD1BtKzR",
-          "createdAt": "2026-03-24T18:53:54.000Z",
-          "url": "https://x.com/RayDalio/status/2036516875585077311",
-          "likes": 184,
-          "retweets": 23,
-          "replies": 16,
-          "isQuote": true,
-          "quotedTweetId": "2036094771144405319"
-        },
-        {
-          "id": "2036492607862284449",
-          "text": "After studying over 500 years of history, I’ve found there are really only three things you need to do to build a healthy society.\n\nFirst, educate your young people well—not just to be capable, but to be civil. If you have capable, civil people in a productive society, that’s a https://t.co/v1XNZQXY1s",
-          "createdAt": "2026-03-24T17:17:28.000Z",
-          "url": "https://x.com/RayDalio/status/2036492607862284449",
-          "likes": 869,
-          "retweets": 165,
-          "replies": 70,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2036446607550333133",
-          "text": "To succeed at investing, you need to have a well-throughout, ideally back-tested, game-plan that you execute, rather than make decisions spontaneously.  To build a well-tested game-plan, start by looking at all the big events that have happened before, because, if it happened https://t.co/VTo6wQnsby",
-          "createdAt": "2026-03-24T14:14:41.000Z",
-          "url": "https://x.com/RayDalio/status/2036446607550333133",
-          "likes": 683,
-          "retweets": 103,
-          "replies": 63,
-          "isQuote": false,
-          "quotedTweetId": null
+          "quotedTweetId": "2035962536474837019"
         }
       ]
     },
@@ -500,43 +167,32 @@
       "bio": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
       "tweets": [
         {
-          "id": "2036577857942499670",
-          "text": "https://t.co/sOTd7VNlB5",
-          "createdAt": "2026-03-24T22:56:13.000Z",
-          "url": "https://x.com/dotey/status/2036577857942499670",
-          "likes": 65,
-          "retweets": 9,
-          "replies": 14,
+          "id": "2036535229024792788",
+          "text": "https://t.co/sadTRz4bh8",
+          "createdAt": "2026-03-24T20:06:50.000Z",
+          "url": "https://x.com/dotey/status/2036535229024792788",
+          "likes": 67,
+          "retweets": 10,
+          "replies": 3,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2036550971682181547",
-          "text": "OpenAI 关停 Sora，AI 视频明星产品上线半年即告终结\n\nOpenAI 今天宣布关停旗下 AI 视频生成产品 Sora，包括独立 App 和 API 都将下线。Sora 团队在 X 上发帖告别，表示会尽快公布具体时间表和用户作品保存方案。\n\n从去年 9 月高调上线到今天宣布关停，Sora 作为独立产品只存活了大约半年。\n\n去年 10 https://t.co/7l9FQAGPOq",
-          "createdAt": "2026-03-24T21:09:23.000Z",
-          "url": "https://x.com/dotey/status/2036550971682181547",
-          "likes": 271,
-          "retweets": 32,
-          "replies": 49,
+          "id": "2036530915103612976",
+          "text": "今天刚发生的重大安全事件，Karpathy 亲自发帖警告。\n\nlitellm 被投毒：一次教科书级的供应链攻击\n\n今天（3月24日），AI 开发者常用的 Python 库 litellm 在 PyPI 上被植入恶意代码。版本 1.82.8 在 UTC 时间 10:52 发布到 PyPI，包含一个名为 litellm_init.pth 的恶意文件，会在每次 Python https://t.co/C47y71Z1qp",
+          "createdAt": "2026-03-24T19:49:41.000Z",
+          "url": "https://x.com/dotey/status/2036530915103612976",
+          "likes": 633,
+          "retweets": 128,
+          "replies": 31,
           "isQuote": true,
-          "quotedTweetId": "2036546752535470382"
-        },
-        {
-          "id": "2036536002643181928",
-          "text": "结果已经公布\nhttps://t.co/1Mw4jUvP8f",
-          "createdAt": "2026-03-24T20:09:54.000Z",
-          "url": "https://x.com/dotey/status/2036536002643181928",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": true,
-          "quotedTweetId": "2036535229024792788"
+          "quotedTweetId": "2036487306585268612"
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 17,
-    "totalTweets": 36
+    "xBuilders": 7,
+    "totalTweets": 12
   }
 }
