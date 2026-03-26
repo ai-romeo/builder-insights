@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-26T01:52:37.817Z",
+  "generatedAt": "2026-03-26T12:49:06.598Z",
   "lookbackHours": 12,
   "x": [
     {
@@ -9,26 +9,108 @@
       "bio": "President & CEO @ycombinator —Founder https://t.co/7aoJjp1iIK—designer/engineer who helps founders—SF Dem accelerating the boom loop—haters not allowed in my sauna",
       "tweets": [
         {
-          "id": "2036943368673210421",
-          "text": "Datacenters create jobs and prosperity\n\nIs it a surprise that the forces that want to seize all assets also want to stop building all datacenters? https://t.co/d4JVZfWDLu",
-          "createdAt": "2026-03-25T23:08:38.000Z",
-          "url": "https://x.com/garrytan/status/2036943368673210421",
-          "likes": 66,
-          "retweets": 7,
-          "replies": 18,
+          "id": "2037055498974093629",
+          "text": "One of the most important things about this new age is you have to use tokens aggressively to create something remarkable\n\nYou have to let it rip. If you do, and you have agency and taste, the result will be remarkable. \n\nSo token credits for AI is a big part of making startups https://t.co/hIwZ8pkggs",
+          "createdAt": "2026-03-26T06:34:12.000Z",
+          "url": "https://x.com/garrytan/status/2037055498974093629",
+          "likes": 589,
+          "retweets": 24,
+          "replies": 76,
+          "isQuote": true,
+          "quotedTweetId": "2037002056469536921"
+        },
+        {
+          "id": "2037054022994321725",
+          "text": "Many such cases https://t.co/ANbBJXIKTb",
+          "createdAt": "2026-03-26T06:28:20.000Z",
+          "url": "https://x.com/garrytan/status/2037054022994321725",
+          "likes": 12,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": true,
+          "quotedTweetId": "2037053930694168740"
+        },
+        {
+          "id": "2037051410857283967",
+          "text": "GStack beats Superpowers head to head https://t.co/dJC3PqjfsZ https://t.co/AYTIaNgQC8",
+          "createdAt": "2026-03-26T06:17:57.000Z",
+          "url": "https://x.com/garrytan/status/2037051410857283967",
+          "likes": 248,
+          "retweets": 14,
+          "replies": 28,
+          "isQuote": true,
+          "quotedTweetId": "2036927243029713284"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Steven Bartlett",
+      "handle": "StevenBartlett",
+      "bio": "Founder of https://t.co/XxTAZe4jhE - The Creator Economy Company. Investor in 100 companies±. Groq, SpaceX, Lovable, Replit, MrBeast, Whoop etc",
+      "tweets": [
+        {
+          "id": "2037078117269790949",
+          "text": "You can watch this full conversation here: https://t.co/pnmAbJWtmM",
+          "createdAt": "2026-03-26T08:04:04.000Z",
+          "url": "https://x.com/StevenBartlett/status/2037078117269790949",
+          "likes": 12,
+          "retweets": 3,
+          "replies": 0,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2036942115163500567",
-          "text": "They call it an overpaid CEO tax but actually it’s a tax on your groceries and retail\n\nIt’s bad policy wrapped up in anti-billionaire bullshit\n\nGive us a break with this stuff please. We need normal people to speak out now. Help us 👇 https://t.co/YpP9i56QPV https://t.co/p4uXHVJSVx",
-          "createdAt": "2026-03-25T23:03:39.000Z",
-          "url": "https://x.com/garrytan/status/2036942115163500567",
-          "likes": 75,
-          "retweets": 10,
-          "replies": 12,
+          "id": "2037077101354913836",
+          "text": "The people building AI say it could destroy humanity… so why are they still racing to build it?\n\nTo help answer that, I’m joined by Karen Hao. She’s someone who’s spent years speaking to the people at the centre of this race, conducting over 300 interviews, including insiders at https://t.co/huIZrhalrh",
+          "createdAt": "2026-03-26T08:00:02.000Z",
+          "url": "https://x.com/StevenBartlett/status/2037077101354913836",
+          "likes": 101,
+          "retweets": 18,
+          "replies": 20,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Oogie",
+      "handle": "oggii_0",
+      "bio": "AI | Tech | Collaboration | DM for Al tools collabs 📩 CPP: @socialsight",
+      "tweets": [
+        {
+          "id": "2037117264336740600",
+          "text": "Create a hyper-realistic disaster video using Seedance 2.0\n\nPrompt: This hyper-realistic urban disaster special effects film, shot with an Arri Alexa 65 camera, utilizes high-contrast lighting to create a raw, textured atmosphere, three-dimensional smoke, and a chaotic, https://t.co/c2gZsjTc8S",
+          "createdAt": "2026-03-26T10:39:38.000Z",
+          "url": "https://x.com/oggii_0/status/2037117264336740600",
+          "likes": 54,
+          "retweets": 3,
+          "replies": 14,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2037096077611208978",
+          "text": "This is the kind of AI small businesses actually need \nLess time negotiating, more time growing.\n\nTools like this can seriously level the playing field. https://t.co/sle5aHwxIa",
+          "createdAt": "2026-03-26T09:15:26.000Z",
+          "url": "https://x.com/oggii_0/status/2037096077611208978",
+          "likes": 4,
+          "retweets": 0,
+          "replies": 1,
           "isQuote": true,
-          "quotedTweetId": "2036888337332806029"
+          "quotedTweetId": "2036143093960110278"
+        },
+        {
+          "id": "2037057582746263820",
+          "text": "Gemini Nano Banana Pro \n\nPrompt: High-end commercial food product photography of a (glass jar of raspberry jam) labeled “(Reseperry Organic Jam)”, placed naturally on a lush (moss-covered forest floor) surrounded by fresh (ripe raspberries scattered around). The jar is open, https://t.co/fdSzJpKmGD",
+          "createdAt": "2026-03-26T06:42:29.000Z",
+          "url": "https://x.com/oggii_0/status/2037057582746263820",
+          "likes": 58,
+          "retweets": 4,
+          "replies": 12,
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     },
@@ -39,26 +121,37 @@
       "bio": "🚀AI tools, prompts & wild ideas built for curious minds🤖CPP: @Wireflowai @BasedLabsAI @AltSocietyAI",
       "tweets": [
         {
-          "id": "2036867472918286551",
-          "text": "Kid-drawn Movie Posters by Nano Banana 2🎨🎥\n\nPrompt👇🏻 https://t.co/x5Cn1KWb7X https://t.co/BmpNJ6nAgN",
-          "createdAt": "2026-03-25T18:07:03.000Z",
-          "url": "https://x.com/TechieBySA/status/2036867472918286551",
-          "likes": 134,
-          "retweets": 21,
-          "replies": 9,
-          "isQuote": true,
-          "quotedTweetId": "2036782926713458872"
-        },
-        {
-          "id": "2036821275285324049",
-          "text": "“Create an infographic image of [LANDMARK], combining a real photograph of the landmark with blueprint-style technical annotations and diagrams overlaid on the image. Include the title “[LANDMARK]” in a hand-drawn box in the corner. Add white chalk-style sketches showing key",
-          "createdAt": "2026-03-25T15:03:28.000Z",
-          "url": "https://x.com/TechieBySA/status/2036821275285324049",
-          "likes": 9,
+          "id": "2037141034531009011",
+          "text": "Prompt exclusively on https://t.co/LxAalYhu8y on my profile🔥",
+          "createdAt": "2026-03-26T12:14:05.000Z",
+          "url": "https://x.com/TechieBySA/status/2037141034531009011",
+          "likes": 4,
           "retweets": 0,
           "replies": 0,
           "isQuote": false,
           "quotedTweetId": null
+        },
+        {
+          "id": "2037141030047215944",
+          "text": "Pixar Series Poster by Nano Banana 2🎥✨\n\nPrompt on @AltSocietyAI👇🏻 https://t.co/3V5JNTy476",
+          "createdAt": "2026-03-26T12:14:04.000Z",
+          "url": "https://x.com/TechieBySA/status/2037141030047215944",
+          "likes": 30,
+          "retweets": 2,
+          "replies": 11,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2037097286476480771",
+          "text": "This feature can really come in handy if you’re not satisfied with your image and want to move an object to a different place🔥\n\n#Lovart #LovartAI https://t.co/b6Xn3RVHpc",
+          "createdAt": "2026-03-26T09:20:15.000Z",
+          "url": "https://x.com/TechieBySA/status/2037097286476480771",
+          "likes": 15,
+          "retweets": 0,
+          "replies": 2,
+          "isQuote": true,
+          "quotedTweetId": "2036806803481149639"
         }
       ]
     },
@@ -69,26 +162,56 @@
       "bio": "AI Educator & Creator | Ambassador @Adobe @LeonardoAi & @tripoai | Partner with leading brands | 📧 Collaboration → hello@amirazairi.com",
       "tweets": [
         {
-          "id": "2036898688136863934",
-          "text": "--sref 7976843436 https://t.co/tFXbNKYS3D https://t.co/B0zxH9Lerx",
-          "createdAt": "2026-03-25T20:11:05.000Z",
-          "url": "https://x.com/azed_ai/status/2036898688136863934",
-          "likes": 37,
-          "retweets": 3,
-          "replies": 3,
-          "isQuote": true,
-          "quotedTweetId": "2036714471654338914"
+          "id": "2037122680827371955",
+          "text": "Prompt share: Swirling liquid plumes\n\n💬Prompt:\nThe [subject] emerges from swirling liquid plumes in milky water, formed through soft diffusion and abstract motion. Rich ink blacks and cloudy whites blend seamlessly, creating a dreamy, poetic composition that feels suspended in https://t.co/mKZmICrWiA",
+          "createdAt": "2026-03-26T11:01:09.000Z",
+          "url": "https://x.com/azed_ai/status/2037122680827371955",
+          "likes": 44,
+          "retweets": 4,
+          "replies": 6,
+          "isQuote": false,
+          "quotedTweetId": null
         },
         {
-          "id": "2036846070140199319",
-          "text": "If you liked this, follow @azed_ai for more AI tips and prompts. Your likes, reposts, and bookmarks on the main post help me keep creating free content!\n\nI appreciate your support! https://t.co/jIykzdHoqE",
-          "createdAt": "2026-03-25T16:42:00.000Z",
-          "url": "https://x.com/azed_ai/status/2036846070140199319",
-          "likes": 5,
+          "id": "2037077157789524417",
+          "text": "Newly created style on Midjourney\n\n--sref 4493364879 https://t.co/jptqX2n7Xr",
+          "createdAt": "2026-03-26T08:00:16.000Z",
+          "url": "https://x.com/azed_ai/status/2037077157789524417",
+          "likes": 28,
+          "retweets": 1,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2037032560128385301",
+          "text": "Good morning\n\nCarry calm confidence into every task today. https://t.co/Mpf7Exca4l",
+          "createdAt": "2026-03-26T05:03:03.000Z",
+          "url": "https://x.com/azed_ai/status/2037032560128385301",
+          "likes": 38,
           "retweets": 0,
-          "replies": 0,
-          "isQuote": true,
-          "quotedTweetId": "2036845836093841851"
+          "replies": 15,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Alex Hormozi",
+      "handle": "AlexHormozi",
+      "bio": "Co-Founder: https://t.co/gQN7OehYd2, https://t.co/VLS8LzeasI. Business Owners: Get your 2026 free scaling roadmap 👇",
+      "tweets": [
+        {
+          "id": "2037124992086008090",
+          "text": "Friendly reminder that if your customers always complain about your prices - you don't need to lower your prices, you just need to raise your customers.",
+          "createdAt": "2026-03-26T11:10:20.000Z",
+          "url": "https://x.com/AlexHormozi/status/2037124992086008090",
+          "likes": 623,
+          "retweets": 37,
+          "replies": 153,
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     },
@@ -99,32 +222,144 @@
       "bio": "Professor of Neurobiology and Ophthalmology at Stanford Medicine • Host of Huberman Lab • Focused on science and health research and public education",
       "tweets": [
         {
-          "id": "2036850694087757991",
-          "text": "I covered peptides a while back and I’ll do it again on the HLP because there’s a lot of updates but there’s also this guest episode with a MD expert in them for men and women: if you’re trying to get educated on peptides, may want to give it a listen https://t.co/QdW0PAZyWV",
-          "createdAt": "2026-03-25T17:00:22.000Z",
-          "url": "https://x.com/hubermanlab/status/2036850694087757991",
-          "likes": 670,
-          "retweets": 48,
-          "replies": 28,
+          "id": "2036986463125201054",
+          "text": "My reasons for posting “predictions” = what once was a niche space is changing. Peptide Sciences (gray market giant) gone, Nova &amp; HIMS partnering (I find that interesting &amp; important re how it will impact the broader market), general interest in (non)GLP peptides skyrocketing.",
+          "createdAt": "2026-03-26T01:59:52.000Z",
+          "url": "https://x.com/hubermanlab/status/2036986463125201054",
+          "likes": 137,
+          "retweets": 3,
+          "replies": 6,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2036848757216833799",
-          "text": "Prediction: the peptides that will hit the broader male and female HRT space next are kisspeptin and gonadorelin (and not in place of HCG!). Will be interesting to see which companies compound for wide distribution first. These are potent and MD monitoring will be key.",
-          "createdAt": "2026-03-25T16:52:41.000Z",
-          "url": "https://x.com/hubermanlab/status/2036848757216833799",
-          "likes": 961,
-          "retweets": 37,
-          "replies": 65,
+          "id": "2036984829154385963",
+          "text": "I’ve been posting a lot about peptides and some of the health sociology and rules around them. A few people understandably assumed I am being paid for it. I’m not paid by any pharmaceutical company or peptide company. If that were to change, I of course, would make it known.",
+          "createdAt": "2026-03-26T01:53:23.000Z",
+          "url": "https://x.com/hubermanlab/status/2036984829154385963",
+          "likes": 904,
+          "retweets": 8,
+          "replies": 41,
           "isQuote": false,
           "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Orange AI",
+      "handle": "oran_ge",
+      "bio": "CEO of MarsWave. Build for Agents, by Agents.",
+      "tweets": [
+        {
+          "id": "2037142965219696987",
+          "text": "原推也就18w曝光，国内不少于100w曝光… https://t.co/KR6RS7OFGy",
+          "createdAt": "2026-03-26T12:21:45.000Z",
+          "url": "https://x.com/oran_ge/status/2037142965219696987",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "2036466118240645299"
+        },
+        {
+          "id": "2037142584263663923",
+          "text": "这张图都被转得包浆了…\n我竟然跟着这张图出圈了…\n离谱 https://t.co/GyptS5lnWE",
+          "createdAt": "2026-03-26T12:20:15.000Z",
+          "url": "https://x.com/oran_ge/status/2037142584263663923",
+          "likes": 5,
+          "retweets": 1,
+          "replies": 3,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2037137898634650107",
+          "text": "上一次你以【专辑】的形式听歌是什么时候了？ https://t.co/lbhbqmIqYl",
+          "createdAt": "2026-03-26T12:01:37.000Z",
+          "url": "https://x.com/oran_ge/status/2037137898634650107",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 3,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "李继刚",
+      "handle": "lijigang",
+      "bio": "Reader.  Thinker.  Prompter.",
+      "tweets": [
+        {
+          "id": "2037080804845903948",
+          "text": "还原论：向下拆，理解零件。\n涌现论：向上看，理解整体。\n\n思考时，向下拆解找机制，向上综合找规律。\n\n可能这就是「吾将上下求其索」的上下吧。",
+          "createdAt": "2026-03-26T08:14:45.000Z",
+          "url": "https://x.com/lijigang/status/2037080804845903948",
+          "likes": 61,
+          "retweets": 6,
+          "replies": 3,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2036994531628114080",
+          "text": "日读论文\n---------\n\nhttps://t.co/qKsltiQCJS\n\n大模型学会了拒绝危险请求——用英文问它怎么造炸弹，它摇头。用现代中文问，也摇头。但如果用文言文问呢？ https://t.co/71MjXicslc",
+          "createdAt": "2026-03-26T02:31:56.000Z",
+          "url": "https://x.com/lijigang/status/2036994531628114080",
+          "likes": 83,
+          "retweets": 10,
+          "replies": 5,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "宝玉",
+      "handle": "dotey",
+      "bio": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "tweets": [
+        {
+          "id": "2037038117677400417",
+          "text": "FYI\nhttps://t.co/zX3fUMbalD",
+          "createdAt": "2026-03-26T05:25:08.000Z",
+          "url": "https://x.com/dotey/status/2037038117677400417",
+          "likes": 4,
+          "retweets": 1,
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "2037016534443503858"
+        },
+        {
+          "id": "2037025797744033932",
+          "text": "因为现在nodejs比较普及，而 bun 可以通过 npx -y bun 运行的，这样只要有nodejs就可以用bun，所以我在 skills 里面都会让 agent 自己检查并灵活选择。\n\n还有一点，我在 skills 里面用的路径都是相对路径，但告诉了 agent 基础目录（baseDir）在哪，这样基本不会找路径出错。\nhttps://t.co/clXcN4aYFq https://t.co/Dx1LifqWQf",
+          "createdAt": "2026-03-26T04:36:10.000Z",
+          "url": "https://x.com/dotey/status/2037025797744033932",
+          "likes": 10,
+          "retweets": 2,
+          "replies": 1,
+          "isQuote": true,
+          "quotedTweetId": "2037024495647809890"
+        },
+        {
+          "id": "2036993782357324280",
+          "text": "我现在所有 skills 的脚本，默认用 bun 执行，因为 bun 可以直接执行 TypeScript，不需要预先编译，这带来的好处就是如果出错了，Agent 可以快速定位到代码里面的问题，然后直接修改代码再次运行，如果是打包后的代码这就很难打补丁。\n\n任何语言或者环境，Agent 友好才是王道！ https://t.co/84ZmL36k1x",
+          "createdAt": "2026-03-26T02:28:57.000Z",
+          "url": "https://x.com/dotey/status/2036993782357324280",
+          "likes": 428,
+          "retweets": 46,
+          "replies": 40,
+          "isQuote": true,
+          "quotedTweetId": "2036989953159422054"
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 4,
-    "totalTweets": 8
+    "xBuilders": 10,
+    "totalTweets": 25
   }
 }
