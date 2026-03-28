@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-28T01:11:14.474Z",
+  "generatedAt": "2026-03-28T01:45:03.778Z",
   "lookbackHours": 12,
   "x": [],
   "stats": {
@@ -7,30 +7,6 @@
     "totalTweets": 0
   },
   "errors": [
-    "X API: Failed to fetch tweets for @garrytan: HTTP 402",
-    "X API: Failed to fetch tweets for @StevenBartlett: HTTP 402",
-    "X API: Failed to fetch tweets for @ishverduzco: HTTP 402",
-    "X API: Failed to fetch tweets for @oggii_0: HTTP 402",
-    "X API: Failed to fetch tweets for @paulg: HTTP 402",
-    "X API: Failed to fetch tweets for @joshwoodward: HTTP 402",
-    "X API: Failed to fetch tweets for @TechieBySA: HTTP 402",
-    "X API: Failed to fetch tweets for @vista8: HTTP 402",
-    "X API: Failed to fetch tweets for @azed_ai: HTTP 402",
-    "X API: Failed to fetch tweets for @AdamMGrant: HTTP 402",
-    "X API: Failed to fetch tweets for @justinleei: HTTP 402",
-    "X API: Failed to fetch tweets for @frxiaobei: HTTP 402",
-    "X API: Failed to fetch tweets for @ChrisWillx: HTTP 402",
-    "X API: Failed to fetch tweets for @AlexHormozi: HTTP 402",
-    "X API: Failed to fetch tweets for @hubermanlab: HTTP 402",
-    "X API: Failed to fetch tweets for @lulumeservey: HTTP 402",
-    "X API: Failed to fetch tweets for @thedankoe: HTTP 402",
-    "X API: Failed to fetch tweets for @oran_ge: HTTP 402",
-    "X API: Failed to fetch tweets for @lijigang: HTTP 402",
-    "X API: Failed to fetch tweets for @zarazhangrui: HTTP 402",
-    "X API: Failed to fetch tweets for @naval: HTTP 402",
-    "X API: Failed to fetch tweets for @karpathy: HTTP 402",
-    "X API: Failed to fetch tweets for @RayDalio: HTTP 402",
-    "X API: Failed to fetch tweets for @johnrushx: HTTP 402",
-    "X API: Failed to fetch tweets for @dotey: HTTP 402"
+    "X API: User lookup failed: HTTP 402"
   ]
 }
